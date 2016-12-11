@@ -1,0 +1,27 @@
+
+<jnlp spec="1.0+" codebase="http://www.rcsb.org:80">
+    <information>
+        <title>RCSB File Downloader</title>
+        <vendor>RCSB PDB</vendor>
+        <homepage href="http://www.rcsb.org:80"/>
+        <description>Download files via Java Web Start</description>
+        <offline-allowed/>
+        <description kind="short">Download files via Java Web Start</description>
+        <icon kind="splash" href="/pdb/img/pdbws_splash.gif"/>
+        <shortcut online="false">
+            <desktop/>
+            <menu submenu="RCSB File Downloader"/>
+        </shortcut>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.8 1.7 1.6" initial-heap-size="64m" max-heap-size="512m"/>
+        <jar href="pdb/download/web_download/RCSB-Download-Applet.jar" main="true"/>
+    </resources>
+    <application-desc main-class="org.rcsb.Downloader">
+        <argument>/pdb/files/1A23.cif.gz,/pdb/files/1AAR.cif.gz,/pdb/files/1AG2.cif.gz,/pdb/files/1AJ3.cif.gz,/pdb/files/1AKK.cif.gz,/pdb/files/1ANK.cif.gz,/pdb/files/1ARR.cif.gz,/pdb/files/1AYF.cif.gz,/pdb/files/1BNI.cif.gz,/pdb/files/1BPI.cif.gz,/pdb/files/1BTA.cif.gz,/pdb/files/1BVC.cif.gz,/pdb/files/1C2R.cif.gz,/pdb/files/1C9O.cif.gz,/pdb/files/1CAH.cif.gz,/pdb/files/1CHK.cif.gz,/pdb/files/1CSP.cif.gz,/pdb/files/1CYO.cif.gz,/pdb/files/1EL1.cif.gz,/pdb/files/1EM7.cif.gz,/pdb/files/1G6N.cif.gz,/pdb/files/1HFY.cif.gz,/pdb/files/1HUE.cif.gz,/pdb/files/1IGV.cif.gz,/pdb/files/1IOB.cif.gz,/pdb/files/1LZ1.cif.gz,/pdb/files/1MBG.cif.gz,/pdb/files/1N0J.cif.gz,/pdb/files/1ONC.cif.gz,/pdb/files/1OTR.cif.gz,/pdb/files/1PGA.cif.gz,/pdb/files/1POH.cif.gz,/pdb/files/1RN1.cif.gz,/pdb/files/1ROP.cif.gz,/pdb/files/1RTB.cif.gz,/pdb/files/1RX4.cif.gz,/pdb/files/1SAR.cif.gz,/pdb/files/1SHG.cif.gz,/pdb/files/1STN.cif.gz,/pdb/files/1SUP.cif.gz,/pdb/files/1TPK.cif.gz,/pdb/files/1TUP.cif.gz,/pdb/files/1VQB.cif.gz,/pdb/files/1YCC.cif.gz,/pdb/files/2ABD.cif.gz,/pdb/files/2AFG.cif.gz,/pdb/files/2AKY.cif.gz,/pdb/files/2CI2.cif.gz,/pdb/files/2HPR.cif.gz,/pdb/files/2LZM.cif.gz,/pdb/files/2RN2.cif.gz,/pdb/files/2TRX.cif.gz,/pdb/files/3BLS.cif.gz,/pdb/files/3MBP.cif.gz,/pdb/files/3SSI.cif.gz,/pdb/files/451C.cif.gz,/pdb/files/4LYZ.cif.gz,/pdb/files/5CRO.cif.gz</argument>
+        <argument>http://www.rcsb.org:80</argument>
+    </application-desc>
+</jnlp>

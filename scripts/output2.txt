@@ -1,0 +1,12 @@
+error!- wrong residue in 717
+error!- wrong residue in 718
+error!- wrong residue in 719
+error!- wrong residue in 720
+error!- wrong residue in 725
+error!- wrong residue in 726
+error!- wrong residue in 727
+error!- wrong residue in 728
+error!- wrong residue in 729
+error!- wrong residue in 730
+error!- wrong residue in 731
+error!- wrong residue in 732
