@@ -46,6 +46,6 @@ def transform_2d(X_3d_lattices = data):
 				X_2d_xz_transform[num][i][j][0] = val
 
 	X_2d_lattices = np.concatenate((X_2d_xy_transform, X_2d_yz_transform, X_2d_xz_transform), axis=3)
-	return X_2d_lattices
+	np.save('X_2d_lattices.npy', X_2d_lattices)
 
-
+transform_2d()
