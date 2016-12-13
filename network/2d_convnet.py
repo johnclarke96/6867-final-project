@@ -15,8 +15,8 @@ layer2_stride = 1
 layer3_nodes = 10
 output_dim = 1
 learning_rate = 0.01
-l2_regularization_constant = 0.01
-batch_size = 10
+l2_regularization_constant = 0.1
+batch_size = 100
 iterations = 20000
 
 # Setup TF Graph
@@ -67,13 +67,13 @@ def train(training_x, training_x2, training_y, valid_x, valid_x2, valid_y):
   sess = tf.Session()
   init = tf.initialize_all_variables()
   sess.run(init)
+  checkpoint = 0
   for i in xrange(iterations):
     batch_indices = random.sample(xrange(0, training_x.shape[0]), batch_size)
     batch_x = training_x[batch_indices, :, :, :]
     batch_x2 = training_x2[batch_indices, :]
     batch_y = training_y[batch_indices, :]
     sess.run(optimize, feed_dict={x: batch_x, x2: batch_x2, y: batch_y})
-    checkpoint = 0
     print i
     if i % 10 == 0:
       loss_valid = sess.run(loss_with_l2, feed_dict={x: valid_x, x2: valid_x2, y: valid_y})

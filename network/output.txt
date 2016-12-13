@@ -1,172 +1,2353 @@
-Percent Increase in Training Set: 0.451906659078
-Percent Increase in Validation Set: 0.438247011952
-Iteration 0 Training Loss: 1.64276
-Iteration 0 Training Accuracy: 0.447922595333
-Iteration 0 Training Increase Accuracy: 0.986146095718
-Iteration 0 Training Decrease Accuracy: 0.00415368639668
-Iteration 0 Validation Loss: 1.64517
-Iteration 0 Validation Accuracy: 0.438247011952
-Iteration 0 Validation Increase Accuracy: 0.99696969697
-Iteration 0 Validation Decrease Accuracy: 0.00236406619385
-Iteration 10 Training Loss: 1.62508
-Iteration 10 Training Accuracy: 0.548093340922
-Iteration 10 Training Increase Accuracy: 0.0
-Iteration 10 Training Decrease Accuracy: 1.0
-Iteration 10 Validation Loss: 1.62411
-Iteration 10 Validation Accuracy: 0.561752988048
-Iteration 10 Validation Increase Accuracy: 0.0
-Iteration 10 Validation Decrease Accuracy: 1.0
-Iteration 20 Training Loss: 1.62226
-Iteration 20 Training Accuracy: 0.47296528173
-Iteration 20 Training Increase Accuracy: 0.765743073048
-Iteration 20 Training Decrease Accuracy: 0.231568016615
-Iteration 20 Validation Loss: 1.62415
-Iteration 20 Validation Accuracy: 0.444887118194
-Iteration 20 Validation Increase Accuracy: 0.721212121212
-Iteration 20 Validation Decrease Accuracy: 0.229314420804
-Iteration 30 Training Loss: 1.61557
-Iteration 30 Training Accuracy: 0.548093340922
-Iteration 30 Training Increase Accuracy: 0.0
-Iteration 30 Training Decrease Accuracy: 1.0
-Iteration 30 Validation Loss: 1.61621
-Iteration 30 Validation Accuracy: 0.561752988048
-Iteration 30 Validation Increase Accuracy: 0.0
-Iteration 30 Validation Decrease Accuracy: 1.0
-Iteration 40 Training Loss: 1.63655
-Iteration 40 Training Accuracy: 0.548093340922
-Iteration 40 Training Increase Accuracy: 0.0
-Iteration 40 Training Decrease Accuracy: 1.0
-Iteration 40 Validation Loss: 1.63612
-Iteration 40 Validation Accuracy: 0.561752988048
-Iteration 40 Validation Increase Accuracy: 0.0
-Iteration 40 Validation Decrease Accuracy: 1.0
-Iteration 50 Training Loss: 1.61021
-Iteration 50 Training Accuracy: 0.548093340922
-Iteration 50 Training Increase Accuracy: 0.0
-Iteration 50 Training Decrease Accuracy: 1.0
-Iteration 50 Validation Loss: 1.61187
-Iteration 50 Validation Accuracy: 0.561752988048
-Iteration 50 Validation Increase Accuracy: 0.0
-Iteration 50 Validation Decrease Accuracy: 1.0
-Iteration 60 Training Loss: 1.60822
-Iteration 60 Training Accuracy: 0.548093340922
-Iteration 60 Training Increase Accuracy: 0.0
-Iteration 60 Training Decrease Accuracy: 1.0
-Iteration 60 Validation Loss: 1.60982
-Iteration 60 Validation Accuracy: 0.561752988048
-Iteration 60 Validation Increase Accuracy: 0.0
-Iteration 60 Validation Decrease Accuracy: 1.0
-Iteration 70 Training Loss: 1.61093
-Iteration 70 Training Accuracy: 0.51280591918
-Iteration 70 Training Increase Accuracy: 0.494962216625
-Iteration 70 Training Decrease Accuracy: 0.527518172378
-Iteration 70 Validation Loss: 1.61269
-Iteration 70 Validation Accuracy: 0.478087649402
-Iteration 70 Validation Increase Accuracy: 0.475757575758
-Iteration 70 Validation Decrease Accuracy: 0.479905437352
-Iteration 80 Training Loss: 1.60762
-Iteration 80 Training Accuracy: 0.523050654525
-Iteration 80 Training Increase Accuracy: 0.293450881612
-Iteration 80 Training Decrease Accuracy: 0.71235721703
-Iteration 80 Validation Loss: 1.60954
-Iteration 80 Validation Accuracy: 0.498007968127
-Iteration 80 Validation Increase Accuracy: 0.251515151515
-Iteration 80 Validation Decrease Accuracy: 0.690307328605
-Iteration 90 Training Loss: 1.60391
-Iteration 90 Training Accuracy: 0.535571997723
-Iteration 90 Training Increase Accuracy: 0.117128463476
-Iteration 90 Training Decrease Accuracy: 0.880581516096
-Iteration 90 Validation Loss: 1.60602
-Iteration 90 Validation Accuracy: 0.525896414343
-Iteration 90 Validation Increase Accuracy: 0.0818181818182
-Iteration 90 Validation Decrease Accuracy: 0.872340425532
-Iteration 100 Training Loss: 1.60322
-Iteration 100 Training Accuracy: 0.515082527035
-Iteration 100 Training Increase Accuracy: 0.311083123426
-Iteration 100 Training Decrease Accuracy: 0.683281412253
-Iteration 100 Validation Loss: 1.60566
-Iteration 100 Validation Accuracy: 0.490039840637
-Iteration 100 Validation Increase Accuracy: 0.287878787879
-Iteration 100 Validation Decrease Accuracy: 0.647754137116
-Iteration 110 Training Loss: 1.59882
-Iteration 110 Training Accuracy: 0.549231644849
-Iteration 110 Training Increase Accuracy: 0.0113350125945
-Iteration 110 Training Decrease Accuracy: 0.992731048806
-Iteration 110 Validation Loss: 1.60085
-Iteration 110 Validation Accuracy: 0.559096945551
-Iteration 110 Validation Increase Accuracy: 0.00909090909091
-Iteration 110 Validation Decrease Accuracy: 0.988179669031
-Iteration 120 Training Loss: 1.59611
-Iteration 120 Training Accuracy: 0.547524188958
-Iteration 120 Training Increase Accuracy: 0.0
-Iteration 120 Training Decrease Accuracy: 0.998961578401
-Iteration 120 Validation Loss: 1.59831
-Iteration 120 Validation Accuracy: 0.561752988048
-Iteration 120 Validation Increase Accuracy: 0.0
-Iteration 120 Validation Decrease Accuracy: 1.0
-Iteration 130 Training Loss: 1.60429
-Iteration 130 Training Accuracy: 0.548093340922
-Iteration 130 Training Increase Accuracy: 0.0
-Iteration 130 Training Decrease Accuracy: 1.0
-Iteration 130 Validation Loss: 1.60606
-Iteration 130 Validation Accuracy: 0.561752988048
-Iteration 130 Validation Increase Accuracy: 0.0
-Iteration 130 Validation Decrease Accuracy: 1.0
-Iteration 140 Training Loss: 1.60013
-Iteration 140 Training Accuracy: 0.548093340922
-Iteration 140 Training Increase Accuracy: 0.0
-Iteration 140 Training Decrease Accuracy: 1.0
-Iteration 140 Validation Loss: 1.60165
-Iteration 140 Validation Accuracy: 0.561752988048
-Iteration 140 Validation Increase Accuracy: 0.0
-Iteration 140 Validation Decrease Accuracy: 1.0
-Iteration 150 Training Loss: 1.59171
-Iteration 150 Training Accuracy: 0.543540125213
-Iteration 150 Training Increase Accuracy: 0.122166246851
-Iteration 150 Training Decrease Accuracy: 0.890965732087
-Iteration 150 Validation Loss: 1.59395
-Iteration 150 Validation Accuracy: 0.529880478088
-Iteration 150 Validation Increase Accuracy: 0.0939393939394
-Iteration 150 Validation Decrease Accuracy: 0.869976359338
-Iteration 160 Training Loss: 1.58933
-Iteration 160 Training Accuracy: 0.548093340922
-Iteration 160 Training Increase Accuracy: 0.0
-Iteration 160 Training Decrease Accuracy: 1.0
-Iteration 160 Validation Loss: 1.59136
-Iteration 160 Validation Accuracy: 0.561752988048
-Iteration 160 Validation Increase Accuracy: 0.0
-Iteration 160 Validation Decrease Accuracy: 1.0
-Iteration 170 Training Loss: 1.58953
-Iteration 170 Training Accuracy: 0.528173022197
-Iteration 170 Training Increase Accuracy: 0.404282115869
-Iteration 170 Training Decrease Accuracy: 0.630321910696
-Iteration 170 Validation Loss: 1.59188
-Iteration 170 Validation Accuracy: 0.516600265604
-Iteration 170 Validation Increase Accuracy: 0.360606060606
-Iteration 170 Validation Decrease Accuracy: 0.63829787234
-Iteration 180 Training Loss: 1.5838
-Iteration 180 Training Accuracy: 0.551508252703
-Iteration 180 Training Increase Accuracy: 0.0151133501259
-Iteration 180 Training Decrease Accuracy: 0.993769470405
-Iteration 180 Validation Loss: 1.58596
-Iteration 180 Validation Accuracy: 0.557768924303
-Iteration 180 Validation Increase Accuracy: 0.00606060606061
-Iteration 180 Validation Decrease Accuracy: 0.988179669031
-Iteration 190 Training Loss: 1.58181
-Iteration 190 Training Accuracy: 0.55093910074
-Iteration 190 Training Increase Accuracy: 0.00629722921914
-Iteration 190 Training Decrease Accuracy: 1.0
-Iteration 190 Validation Loss: 1.58392
-Iteration 190 Validation Accuracy: 0.561752988048
-Iteration 190 Validation Increase Accuracy: 0.0030303030303
-Iteration 190 Validation Decrease Accuracy: 0.997635933806
-Iteration 200 Training Loss: 1.57974
-Iteration 200 Training Accuracy: 0.550369948776
-Iteration 200 Training Increase Accuracy: 0.00629722921914
-Iteration 200 Training Decrease Accuracy: 0.998961578401
-Iteration 200 Validation Loss: 1.58185
-Iteration 200 Validation Accuracy: 0.557768924303
-Iteration 200 Validation Increase Accuracy: 0.0030303030303
-Iteration 200 Validation Decrease Accuracy: 0.990543735225
-Iteration 210 Training Loss: 1.57909
-It
+Percent Increase in Training Set: 0.448491747297
+Percent Increase in Validation Set: 0.446215139442
+Iteration 0 Training Loss: 0.711452
+Iteration 0 Training Accuracy: 0.448491747297
+Iteration 0 Training Increase Accuracy: 1.0
+Iteration 0 Training Decrease Accuracy: 0.0
+Iteration 0 Validation Loss: 0.712333
+Iteration 0 Validation Accuracy: 0.446215139442
+Iteration 0 Validation Increase Accuracy: 1.0
+Iteration 0 Validation Decrease Accuracy: 0.0
+Iteration 30 Training Loss: 0.710097
+Iteration 30 Training Accuracy: 0.448491747297
+Iteration 30 Training Increase Accuracy: 1.0
+Iteration 30 Training Decrease Accuracy: 0.0
+Iteration 30 Validation Loss: 0.710927
+Iteration 30 Validation Accuracy: 0.446215139442
+Iteration 30 Validation Increase Accuracy: 1.0
+Iteration 30 Validation Decrease Accuracy: 0.0
+Iteration 60 Training Loss: 0.708054
+Iteration 60 Training Accuracy: 0.448491747297
+Iteration 60 Training Increase Accuracy: 1.0
+Iteration 60 Training Decrease Accuracy: 0.0
+Iteration 60 Validation Loss: 0.708789
+Iteration 60 Validation Accuracy: 0.446215139442
+Iteration 60 Validation Increase Accuracy: 1.0
+Iteration 60 Validation Decrease Accuracy: 0.0
+Iteration 90 Training Loss: 0.706356
+Iteration 90 Training Accuracy: 0.452475811042
+Iteration 90 Training Increase Accuracy: 0.730964467005
+Iteration 90 Training Decrease Accuracy: 0.22600619195
+Iteration 90 Validation Loss: 0.706998
+Iteration 90 Validation Accuracy: 0.42363877822
+Iteration 90 Validation Increase Accuracy: 0.72619047619
+Iteration 90 Validation Decrease Accuracy: 0.179856115108
+Iteration 120 Training Loss: 0.704885
+Iteration 120 Training Accuracy: 0.525327262379
+Iteration 120 Training Increase Accuracy: 0.0964467005076
+Iteration 120 Training Decrease Accuracy: 0.874097007224
+Iteration 120 Validation Loss: 0.705477
+Iteration 120 Validation Accuracy: 0.505976095618
+Iteration 120 Validation Increase Accuracy: 0.0952380952381
+Iteration 120 Validation Decrease Accuracy: 0.836930455635
+Iteration 150 Training Loss: 0.703769
+Iteration 150 Training Accuracy: 0.552077404667
+Iteration 150 Training Increase Accuracy: 0.0203045685279
+Iteration 150 Training Decrease Accuracy: 0.984520123839
+Iteration 150 Validation Loss: 0.704245
+Iteration 150 Validation Accuracy: 0.545816733068
+Iteration 150 Validation Increase Accuracy: 0.0119047619048
+Iteration 150 Validation Decrease Accuracy: 0.976019184652
+Iteration 180 Training Loss: 0.703297
+Iteration 180 Training Accuracy: 0.55093910074
+Iteration 180 Training Increase Accuracy: 0.010152284264
+Iteration 180 Training Decrease Accuracy: 0.990712074303
+Iteration 180 Validation Loss: 0.703703
+Iteration 180 Validation Accuracy: 0.553784860558
+Iteration 180 Validation Increase Accuracy: 0.0119047619048
+Iteration 180 Validation Decrease Accuracy: 0.990407673861
+Iteration 210 Training Loss: 0.702851
+Iteration 210 Training Accuracy: 0.553784860558
+Iteration 210 Training Increase Accuracy: 0.010152284264
+Iteration 210 Training Decrease Accuracy: 0.995872033024
+Iteration 210 Validation Loss: 0.703194
+Iteration 210 Validation Accuracy: 0.557768924303
+Iteration 210 Validation Increase Accuracy: 0.0119047619048
+Iteration 210 Validation Decrease Accuracy: 0.997601918465
+Iteration 240 Training Loss: 0.702517
+Iteration 240 Training Accuracy: 0.552646556631
+Iteration 240 Training Increase Accuracy: 0.00634517766497
+Iteration 240 Training Decrease Accuracy: 0.996904024768
+Iteration 240 Validation Loss: 0.702836
+Iteration 240 Validation Accuracy: 0.556440903054
+Iteration 240 Validation Increase Accuracy: 0.00892857142857
+Iteration 240 Validation Decrease Accuracy: 0.997601918465
+Iteration 270 Training Loss: 0.701882
+Iteration 270 Training Accuracy: 0.552077404667
+Iteration 270 Training Increase Accuracy: 0.00253807106599
+Iteration 270 Training Decrease Accuracy: 0.998968008256
+Iteration 270 Validation Loss: 0.702122
+Iteration 270 Validation Accuracy: 0.552456839309
+Iteration 270 Validation Increase Accuracy: 0.0
+Iteration 270 Validation Decrease Accuracy: 0.997601918465
+Iteration 300 Training Loss: 0.70164
+Iteration 300 Training Accuracy: 0.551508252703
+Iteration 300 Training Increase Accuracy: 0.0
+Iteration 300 Training Decrease Accuracy: 1.0
+Iteration 300 Validation Loss: 0.701846
+Iteration 300 Validation Accuracy: 0.552456839309
+Iteration 300 Validation Increase Accuracy: 0.0
+Iteration 300 Validation Decrease Accuracy: 0.997601918465
+Iteration 330 Training Loss: 0.701201
+Iteration 330 Training Accuracy: 0.551508252703
+Iteration 330 Training Increase Accuracy: 0.0
+Iteration 330 Training Decrease Accuracy: 1.0
+Iteration 330 Validation Loss: 0.701353
+Iteration 330 Validation Accuracy: 0.553784860558
+Iteration 330 Validation Increase Accuracy: 0.0
+Iteration 330 Validation Decrease Accuracy: 1.0
+Iteration 360 Training Loss: 0.700935
+Iteration 360 Training Accuracy: 0.551508252703
+Iteration 360 Training Increase Accuracy: 0.0
+Iteration 360 Training Decrease Accuracy: 1.0
+Iteration 360 Validation Loss: 0.70106
+Iteration 360 Validation Accuracy: 0.553784860558
+Iteration 360 Validation Increase Accuracy: 0.0
+Iteration 360 Validation Decrease Accuracy: 1.0
+Iteration 390 Training Loss: 0.70078
+Iteration 390 Training Accuracy: 0.551508252703
+Iteration 390 Training Increase Accuracy: 0.0
+Iteration 390 Training Decrease Accuracy: 1.0
+Iteration 390 Validation Loss: 0.700892
+Iteration 390 Validation Accuracy: 0.553784860558
+Iteration 390 Validation Increase Accuracy: 0.0
+Iteration 390 Validation Decrease Accuracy: 1.0
+Iteration 420 Training Loss: 0.700427
+Iteration 420 Training Accuracy: 0.551508252703
+Iteration 420 Training Increase Accuracy: 0.0
+Iteration 420 Training Decrease Accuracy: 1.0
+Iteration 420 Validation Loss: 0.700475
+Iteration 420 Validation Accuracy: 0.553784860558
+Iteration 420 Validation Increase Accuracy: 0.0
+Iteration 420 Validation Decrease Accuracy: 1.0
+Iteration 450 Training Loss: 0.700371
+Iteration 450 Training Accuracy: 0.551508252703
+Iteration 450 Training Increase Accuracy: 0.0
+Iteration 450 Training Decrease Accuracy: 1.0
+Iteration 450 Validation Loss: 0.700402
+Iteration 450 Validation Accuracy: 0.553784860558
+Iteration 450 Validation Increase Accuracy: 0.0
+Iteration 450 Validation Decrease Accuracy: 1.0
+Iteration 480 Training Loss: 0.700132
+Iteration 480 Training Accuracy: 0.551508252703
+Iteration 480 Training Increase Accuracy: 0.0
+Iteration 480 Training Decrease Accuracy: 1.0
+Iteration 480 Validation Loss: 0.70015
+Iteration 480 Validation Accuracy: 0.553784860558
+Iteration 480 Validation Increase Accuracy: 0.0
+Iteration 480 Validation Decrease Accuracy: 1.0
+Iteration 510 Training Loss: 0.699886
+Iteration 510 Training Accuracy: 0.551508252703
+Iteration 510 Training Increase Accuracy: 0.0
+Iteration 510 Training Decrease Accuracy: 1.0
+Iteration 510 Validation Loss: 0.699872
+Iteration 510 Validation Accuracy: 0.553784860558
+Iteration 510 Validation Increase Accuracy: 0.0
+Iteration 510 Validation Decrease Accuracy: 1.0
+Iteration 540 Training Loss: 0.699775
+Iteration 540 Training Accuracy: 0.551508252703
+Iteration 540 Training Increase Accuracy: 0.0
+Iteration 540 Training Decrease Accuracy: 1.0
+Iteration 540 Validation Loss: 0.69976
+Iteration 540 Validation Accuracy: 0.553784860558
+Iteration 540 Validation Increase Accuracy: 0.0
+Iteration 540 Validation Decrease Accuracy: 1.0
+Iteration 570 Training Loss: 0.699657
+Iteration 570 Training Accuracy: 0.551508252703
+Iteration 570 Training Increase Accuracy: 0.0
+Iteration 570 Training Decrease Accuracy: 1.0
+Iteration 570 Validation Loss: 0.699614
+Iteration 570 Validation Accuracy: 0.553784860558
+Iteration 570 Validation Increase Accuracy: 0.0
+Iteration 570 Validation Decrease Accuracy: 1.0
+Iteration 600 Training Loss: 0.699424
+Iteration 600 Training Accuracy: 0.551508252703
+Iteration 600 Training Increase Accuracy: 0.0
+Iteration 600 Training Decrease Accuracy: 1.0
+Iteration 600 Validation Loss: 0.699338
+Iteration 600 Validation Accuracy: 0.553784860558
+Iteration 600 Validation Increase Accuracy: 0.0
+Iteration 600 Validation Decrease Accuracy: 1.0
+Iteration 630 Training Loss: 0.699292
+Iteration 630 Training Accuracy: 0.551508252703
+Iteration 630 Training Increase Accuracy: 0.0
+Iteration 630 Training Decrease Accuracy: 1.0
+Iteration 630 Validation Loss: 0.699184
+Iteration 630 Validation Accuracy: 0.553784860558
+Iteration 630 Validation Increase Accuracy: 0.0
+Iteration 630 Validation Decrease Accuracy: 1.0
+Iteration 660 Training Loss: 0.699156
+Iteration 660 Training Accuracy: 0.551508252703
+Iteration 660 Training Increase Accuracy: 0.0
+Iteration 660 Training Decrease Accuracy: 1.0
+Iteration 660 Validation Loss: 0.699006
+Iteration 660 Validation Accuracy: 0.553784860558
+Iteration 660 Validation Increase Accuracy: 0.0
+Iteration 660 Validation Decrease Accuracy: 1.0
+Iteration 690 Training Loss: 0.699099
+Iteration 690 Training Accuracy: 0.551508252703
+Iteration 690 Training Increase Accuracy: 0.0
+Iteration 690 Training Decrease Accuracy: 1.0
+Iteration 690 Validation Loss: 0.69893
+Iteration 690 Validation Accuracy: 0.553784860558
+Iteration 690 Validation Increase Accuracy: 0.0
+Iteration 690 Validation Decrease Accuracy: 1.0
+Iteration 720 Training Loss: 0.698912
+Iteration 720 Training Accuracy: 0.551508252703
+Iteration 720 Training Increase Accuracy: 0.0
+Iteration 720 Training Decrease Accuracy: 1.0
+Iteration 720 Validation Loss: 0.69873
+Iteration 720 Validation Accuracy: 0.553784860558
+Iteration 720 Validation Increase Accuracy: 0.0
+Iteration 720 Validation Decrease Accuracy: 1.0
+Iteration 750 Training Loss: 0.698797
+Iteration 750 Training Accuracy: 0.551508252703
+Iteration 750 Training Increase Accuracy: 0.0
+Iteration 750 Training Decrease Accuracy: 1.0
+Iteration 750 Validation Loss: 0.69859
+Iteration 750 Validation Accuracy: 0.553784860558
+Iteration 750 Validation Increase Accuracy: 0.0
+Iteration 750 Validation Decrease Accuracy: 1.0
+Iteration 780 Training Loss: 0.698657
+Iteration 780 Training Accuracy: 0.551508252703
+Iteration 780 Training Increase Accuracy: 0.0
+Iteration 780 Training Decrease Accuracy: 1.0
+Iteration 780 Validation Loss: 0.698439
+Iteration 780 Validation Accuracy: 0.553784860558
+Iteration 780 Validation Increase Accuracy: 0.0
+Iteration 780 Validation Decrease Accuracy: 1.0
+Iteration 810 Training Loss: 0.698455
+Iteration 810 Training Accuracy: 0.551508252703
+Iteration 810 Training Increase Accuracy: 0.0
+Iteration 810 Training Decrease Accuracy: 1.0
+Iteration 810 Validation Loss: 0.698205
+Iteration 810 Validation Accuracy: 0.553784860558
+Iteration 810 Validation Increase Accuracy: 0.0
+Iteration 810 Validation Decrease Accuracy: 1.0
+Iteration 840 Training Loss: 0.698313
+Iteration 840 Training Accuracy: 0.551508252703
+Iteration 840 Training Increase Accuracy: 0.0
+Iteration 840 Training Decrease Accuracy: 1.0
+Iteration 840 Validation Loss: 0.698045
+Iteration 840 Validation Accuracy: 0.553784860558
+Iteration 840 Validation Increase Accuracy: 0.0
+Iteration 840 Validation Decrease Accuracy: 1.0
+Iteration 870 Training Loss: 0.698178
+Iteration 870 Training Accuracy: 0.551508252703
+Iteration 870 Training Increase Accuracy: 0.0
+Iteration 870 Training Decrease Accuracy: 1.0
+Iteration 870 Validation Loss: 0.6979
+Iteration 870 Validation Accuracy: 0.553784860558
+Iteration 870 Validation Increase Accuracy: 0.0
+Iteration 870 Validation Decrease Accuracy: 1.0
+Iteration 900 Training Loss: 0.698057
+Iteration 900 Training Accuracy: 0.551508252703
+Iteration 900 Training Increase Accuracy: 0.0
+Iteration 900 Training Decrease Accuracy: 1.0
+Iteration 900 Validation Loss: 0.697752
+Iteration 900 Validation Accuracy: 0.553784860558
+Iteration 900 Validation Increase Accuracy: 0.0
+Iteration 900 Validation Decrease Accuracy: 1.0
+Iteration 930 Training Loss: 0.697913
+Iteration 930 Training Accuracy: 0.551508252703
+Iteration 930 Training Increase Accuracy: 0.0
+Iteration 930 Training Decrease Accuracy: 1.0
+Iteration 930 Validation Loss: 0.697594
+Iteration 930 Validation Accuracy: 0.553784860558
+Iteration 930 Validation Increase Accuracy: 0.0
+Iteration 930 Validation Decrease Accuracy: 1.0
+Iteration 960 Training Loss: 0.697765
+Iteration 960 Training Accuracy: 0.551508252703
+Iteration 960 Training Increase Accuracy: 0.0
+Iteration 960 Training Decrease Accuracy: 1.0
+Iteration 960 Validation Loss: 0.69746
+Iteration 960 Validation Accuracy: 0.553784860558
+Iteration 960 Validation Increase Accuracy: 0.0
+Iteration 960 Validation Decrease Accuracy: 1.0
+Iteration 990 Training Loss: 0.697634
+Iteration 990 Training Accuracy: 0.551508252703
+Iteration 990 Training Increase Accuracy: 0.0
+Iteration 990 Training Decrease Accuracy: 1.0
+Iteration 990 Validation Loss: 0.697302
+Iteration 990 Validation Accuracy: 0.553784860558
+Iteration 990 Validation Increase Accuracy: 0.0
+Iteration 990 Validation Decrease Accuracy: 1.0
+Iteration 1020 Training Loss: 0.697505
+Iteration 1020 Training Accuracy: 0.551508252703
+Iteration 1020 Training Increase Accuracy: 0.0
+Iteration 1020 Training Decrease Accuracy: 1.0
+Iteration 1020 Validation Loss: 0.697154
+Iteration 1020 Validation Accuracy: 0.553784860558
+Iteration 1020 Validation Increase Accuracy: 0.0
+Iteration 1020 Validation Decrease Accuracy: 1.0
+Iteration 1050 Training Loss: 0.697389
+Iteration 1050 Training Accuracy: 0.551508252703
+Iteration 1050 Training Increase Accuracy: 0.0
+Iteration 1050 Training Decrease Accuracy: 1.0
+Iteration 1050 Validation Loss: 0.697019
+Iteration 1050 Validation Accuracy: 0.553784860558
+Iteration 1050 Validation Increase Accuracy: 0.0
+Iteration 1050 Validation Decrease Accuracy: 1.0
+Iteration 1080 Training Loss: 0.697247
+Iteration 1080 Training Accuracy: 0.551508252703
+Iteration 1080 Training Increase Accuracy: 0.0
+Iteration 1080 Training Decrease Accuracy: 1.0
+Iteration 1080 Validation Loss: 0.696879
+Iteration 1080 Validation Accuracy: 0.553784860558
+Iteration 1080 Validation Increase Accuracy: 0.0
+Iteration 1080 Validation Decrease Accuracy: 1.0
+Iteration 1110 Training Loss: 0.697117
+Iteration 1110 Training Accuracy: 0.551508252703
+Iteration 1110 Training Increase Accuracy: 0.0
+Iteration 1110 Training Decrease Accuracy: 1.0
+Iteration 1110 Validation Loss: 0.696748
+Iteration 1110 Validation Accuracy: 0.553784860558
+Iteration 1110 Validation Increase Accuracy: 0.0
+Iteration 1110 Validation Decrease Accuracy: 1.0
+Iteration 1140 Training Loss: 0.696971
+Iteration 1140 Training Accuracy: 0.551508252703
+Iteration 1140 Training Increase Accuracy: 0.0
+Iteration 1140 Training Decrease Accuracy: 1.0
+Iteration 1140 Validation Loss: 0.696574
+Iteration 1140 Validation Accuracy: 0.553784860558
+Iteration 1140 Validation Increase Accuracy: 0.0
+Iteration 1140 Validation Decrease Accuracy: 1.0
+Iteration 1170 Training Loss: 0.696821
+Iteration 1170 Training Accuracy: 0.551508252703
+Iteration 1170 Training Increase Accuracy: 0.0
+Iteration 1170 Training Decrease Accuracy: 1.0
+Iteration 1170 Validation Loss: 0.69643
+Iteration 1170 Validation Accuracy: 0.553784860558
+Iteration 1170 Validation Increase Accuracy: 0.0
+Iteration 1170 Validation Decrease Accuracy: 1.0
+Iteration 1200 Training Loss: 0.696699
+Iteration 1200 Training Accuracy: 0.551508252703
+Iteration 1200 Training Increase Accuracy: 0.0
+Iteration 1200 Training Decrease Accuracy: 1.0
+Iteration 1200 Validation Loss: 0.696292
+Iteration 1200 Validation Accuracy: 0.553784860558
+Iteration 1200 Validation Increase Accuracy: 0.0
+Iteration 1200 Validation Decrease Accuracy: 1.0
+Iteration 1230 Training Loss: 0.696568
+Iteration 1230 Training Accuracy: 0.551508252703
+Iteration 1230 Training Increase Accuracy: 0.0
+Iteration 1230 Training Decrease Accuracy: 1.0
+Iteration 1230 Validation Loss: 0.696134
+Iteration 1230 Validation Accuracy: 0.553784860558
+Iteration 1230 Validation Increase Accuracy: 0.0
+Iteration 1230 Validation Decrease Accuracy: 1.0
+Iteration 1260 Training Loss: 0.696445
+Iteration 1260 Training Accuracy: 0.551508252703
+Iteration 1260 Training Increase Accuracy: 0.0
+Iteration 1260 Training Decrease Accuracy: 1.0
+Iteration 1260 Validation Loss: 0.696
+Iteration 1260 Validation Accuracy: 0.553784860558
+Iteration 1260 Validation Increase Accuracy: 0.0
+Iteration 1260 Validation Decrease Accuracy: 1.0
+Iteration 1290 Training Loss: 0.696319
+Iteration 1290 Training Accuracy: 0.551508252703
+Iteration 1290 Training Increase Accuracy: 0.0
+Iteration 1290 Training Decrease Accuracy: 1.0
+Iteration 1290 Validation Loss: 0.695855
+Iteration 1290 Validation Accuracy: 0.553784860558
+Iteration 1290 Validation Increase Accuracy: 0.0
+Iteration 1290 Validation Decrease Accuracy: 1.0
+Iteration 1320 Training Loss: 0.696177
+Iteration 1320 Training Accuracy: 0.551508252703
+Iteration 1320 Training Increase Accuracy: 0.0
+Iteration 1320 Training Decrease Accuracy: 1.0
+Iteration 1320 Validation Loss: 0.695721
+Iteration 1320 Validation Accuracy: 0.553784860558
+Iteration 1320 Validation Increase Accuracy: 0.0
+Iteration 1320 Validation Decrease Accuracy: 1.0
+Iteration 1350 Training Loss: 0.696045
+Iteration 1350 Training Accuracy: 0.551508252703
+Iteration 1350 Training Increase Accuracy: 0.0
+Iteration 1350 Training Decrease Accuracy: 1.0
+Iteration 1350 Validation Loss: 0.695555
+Iteration 1350 Validation Accuracy: 0.553784860558
+Iteration 1350 Validation Increase Accuracy: 0.0
+Iteration 1350 Validation Decrease Accuracy: 1.0
+Iteration 1380 Training Loss: 0.695913
+Iteration 1380 Training Accuracy: 0.551508252703
+Iteration 1380 Training Increase Accuracy: 0.0
+Iteration 1380 Training Decrease Accuracy: 1.0
+Iteration 1380 Validation Loss: 0.695428
+Iteration 1380 Validation Accuracy: 0.553784860558
+Iteration 1380 Validation Increase Accuracy: 0.0
+Iteration 1380 Validation Decrease Accuracy: 1.0
+Iteration 1410 Training Loss: 0.695778
+Iteration 1410 Training Accuracy: 0.551508252703
+Iteration 1410 Training Increase Accuracy: 0.0
+Iteration 1410 Training Decrease Accuracy: 1.0
+Iteration 1410 Validation Loss: 0.695293
+Iteration 1410 Validation Accuracy: 0.553784860558
+Iteration 1410 Validation Increase Accuracy: 0.0
+Iteration 1410 Validation Decrease Accuracy: 1.0
+Iteration 1440 Training Loss: 0.695636
+Iteration 1440 Training Accuracy: 0.551508252703
+Iteration 1440 Training Increase Accuracy: 0.0
+Iteration 1440 Training Decrease Accuracy: 1.0
+Iteration 1440 Validation Loss: 0.695139
+Iteration 1440 Validation Accuracy: 0.553784860558
+Iteration 1440 Validation Increase Accuracy: 0.0
+Iteration 1440 Validation Decrease Accuracy: 1.0
+Iteration 1470 Training Loss: 0.695515
+Iteration 1470 Training Accuracy: 0.551508252703
+Iteration 1470 Training Increase Accuracy: 0.0
+Iteration 1470 Training Decrease Accuracy: 1.0
+Iteration 1470 Validation Loss: 0.695023
+Iteration 1470 Validation Accuracy: 0.553784860558
+Iteration 1470 Validation Increase Accuracy: 0.0
+Iteration 1470 Validation Decrease Accuracy: 1.0
+Iteration 1500 Training Loss: 0.69541
+Iteration 1500 Training Accuracy: 0.551508252703
+Iteration 1500 Training Increase Accuracy: 0.0
+Iteration 1500 Training Decrease Accuracy: 1.0
+Iteration 1500 Validation Loss: 0.694909
+Iteration 1500 Validation Accuracy: 0.553784860558
+Iteration 1500 Validation Increase Accuracy: 0.0
+Iteration 1500 Validation Decrease Accuracy: 1.0
+Iteration 1530 Training Loss: 0.695275
+Iteration 1530 Training Accuracy: 0.551508252703
+Iteration 1530 Training Increase Accuracy: 0.0
+Iteration 1530 Training Decrease Accuracy: 1.0
+Iteration 1530 Validation Loss: 0.694777
+Iteration 1530 Validation Accuracy: 0.553784860558
+Iteration 1530 Validation Increase Accuracy: 0.0
+Iteration 1530 Validation Decrease Accuracy: 1.0
+Iteration 1560 Training Loss: 0.695228
+Iteration 1560 Training Accuracy: 0.551508252703
+Iteration 1560 Training Increase Accuracy: 0.0
+Iteration 1560 Training Decrease Accuracy: 1.0
+Iteration 1560 Validation Loss: 0.694735
+Iteration 1560 Validation Accuracy: 0.553784860558
+Iteration 1560 Validation Increase Accuracy: 0.0
+Iteration 1560 Validation Decrease Accuracy: 1.0
+Iteration 1590 Training Loss: 0.695133
+Iteration 1590 Training Accuracy: 0.551508252703
+Iteration 1590 Training Increase Accuracy: 0.0
+Iteration 1590 Training Decrease Accuracy: 1.0
+Iteration 1590 Validation Loss: 0.694634
+Iteration 1590 Validation Accuracy: 0.553784860558
+Iteration 1590 Validation Increase Accuracy: 0.0
+Iteration 1590 Validation Decrease Accuracy: 1.0
+Iteration 1620 Training Loss: 0.694922
+Iteration 1620 Training Accuracy: 0.551508252703
+Iteration 1620 Training Increase Accuracy: 0.0
+Iteration 1620 Training Decrease Accuracy: 1.0
+Iteration 1620 Validation Loss: 0.694425
+Iteration 1620 Validation Accuracy: 0.553784860558
+Iteration 1620 Validation Increase Accuracy: 0.0
+Iteration 1620 Validation Decrease Accuracy: 1.0
+Iteration 1650 Training Loss: 0.694773
+Iteration 1650 Training Accuracy: 0.551508252703
+Iteration 1650 Training Increase Accuracy: 0.0
+Iteration 1650 Training Decrease Accuracy: 1.0
+Iteration 1650 Validation Loss: 0.694233
+Iteration 1650 Validation Accuracy: 0.553784860558
+Iteration 1650 Validation Increase Accuracy: 0.0
+Iteration 1650 Validation Decrease Accuracy: 1.0
+Iteration 1680 Training Loss: 0.694772
+Iteration 1680 Training Accuracy: 0.551508252703
+Iteration 1680 Training Increase Accuracy: 0.0
+Iteration 1680 Training Decrease Accuracy: 1.0
+Iteration 1680 Validation Loss: 0.694219
+Iteration 1680 Validation Accuracy: 0.553784860558
+Iteration 1680 Validation Increase Accuracy: 0.0
+Iteration 1680 Validation Decrease Accuracy: 1.0
+Iteration 1710 Training Loss: 0.694572
+Iteration 1710 Training Accuracy: 0.551508252703
+Iteration 1710 Training Increase Accuracy: 0.0
+Iteration 1710 Training Decrease Accuracy: 1.0
+Iteration 1710 Validation Loss: 0.693994
+Iteration 1710 Validation Accuracy: 0.553784860558
+Iteration 1710 Validation Increase Accuracy: 0.0
+Iteration 1710 Validation Decrease Accuracy: 1.0
+Iteration 1740 Training Loss: 0.694295
+Iteration 1740 Training Accuracy: 0.551508252703
+Iteration 1740 Training Increase Accuracy: 0.0
+Iteration 1740 Training Decrease Accuracy: 1.0
+Iteration 1740 Validation Loss: 0.693669
+Iteration 1740 Validation Accuracy: 0.553784860558
+Iteration 1740 Validation Increase Accuracy: 0.0
+Iteration 1740 Validation Decrease Accuracy: 1.0
+Iteration 1770 Training Loss: 0.694144
+Iteration 1770 Training Accuracy: 0.551508252703
+Iteration 1770 Training Increase Accuracy: 0.0
+Iteration 1770 Training Decrease Accuracy: 1.0
+Iteration 1770 Validation Loss: 0.693508
+Iteration 1770 Validation Accuracy: 0.553784860558
+Iteration 1770 Validation Increase Accuracy: 0.0
+Iteration 1770 Validation Decrease Accuracy: 1.0
+Iteration 1800 Training Loss: 0.694008
+Iteration 1800 Training Accuracy: 0.551508252703
+Iteration 1800 Training Increase Accuracy: 0.0
+Iteration 1800 Training Decrease Accuracy: 1.0
+Iteration 1800 Validation Loss: 0.693401
+Iteration 1800 Validation Accuracy: 0.553784860558
+Iteration 1800 Validation Increase Accuracy: 0.0
+Iteration 1800 Validation Decrease Accuracy: 1.0
+Iteration 1830 Training Loss: 0.693823
+Iteration 1830 Training Accuracy: 0.551508252703
+Iteration 1830 Training Increase Accuracy: 0.0
+Iteration 1830 Training Decrease Accuracy: 1.0
+Iteration 1830 Validation Loss: 0.693233
+Iteration 1830 Validation Accuracy: 0.553784860558
+Iteration 1830 Validation Increase Accuracy: 0.0
+Iteration 1830 Validation Decrease Accuracy: 1.0
+Iteration 1860 Training Loss: 0.693708
+Iteration 1860 Training Accuracy: 0.551508252703
+Iteration 1860 Training Increase Accuracy: 0.0
+Iteration 1860 Training Decrease Accuracy: 1.0
+Iteration 1860 Validation Loss: 0.693078
+Iteration 1860 Validation Accuracy: 0.553784860558
+Iteration 1860 Validation Increase Accuracy: 0.0
+Iteration 1860 Validation Decrease Accuracy: 1.0
+Iteration 1890 Training Loss: 0.693545
+Iteration 1890 Training Accuracy: 0.551508252703
+Iteration 1890 Training Increase Accuracy: 0.0
+Iteration 1890 Training Decrease Accuracy: 1.0
+Iteration 1890 Validation Loss: 0.692917
+Iteration 1890 Validation Accuracy: 0.553784860558
+Iteration 1890 Validation Increase Accuracy: 0.0
+Iteration 1890 Validation Decrease Accuracy: 1.0
+Iteration 1920 Training Loss: 0.69349
+Iteration 1920 Training Accuracy: 0.551508252703
+Iteration 1920 Training Increase Accuracy: 0.0
+Iteration 1920 Training Decrease Accuracy: 1.0
+Iteration 1920 Validation Loss: 0.692845
+Iteration 1920 Validation Accuracy: 0.553784860558
+Iteration 1920 Validation Increase Accuracy: 0.0
+Iteration 1920 Validation Decrease Accuracy: 1.0
+Iteration 1950 Training Loss: 0.693264
+Iteration 1950 Training Accuracy: 0.551508252703
+Iteration 1950 Training Increase Accuracy: 0.0
+Iteration 1950 Training Decrease Accuracy: 1.0
+Iteration 1950 Validation Loss: 0.692703
+Iteration 1950 Validation Accuracy: 0.553784860558
+Iteration 1950 Validation Increase Accuracy: 0.0
+Iteration 1950 Validation Decrease Accuracy: 1.0
+Iteration 1980 Training Loss: 0.693046
+Iteration 1980 Training Accuracy: 0.551508252703
+Iteration 1980 Training Increase Accuracy: 0.0
+Iteration 1980 Training Decrease Accuracy: 1.0
+Iteration 1980 Validation Loss: 0.692481
+Iteration 1980 Validation Accuracy: 0.553784860558
+Iteration 1980 Validation Increase Accuracy: 0.0
+Iteration 1980 Validation Decrease Accuracy: 1.0
+Iteration 2010 Training Loss: 0.692864
+Iteration 2010 Training Accuracy: 0.551508252703
+Iteration 2010 Training Increase Accuracy: 0.0
+Iteration 2010 Training Decrease Accuracy: 1.0
+Iteration 2010 Validation Loss: 0.692341
+Iteration 2010 Validation Accuracy: 0.553784860558
+Iteration 2010 Validation Increase Accuracy: 0.0
+Iteration 2010 Validation Decrease Accuracy: 1.0
+Iteration 2040 Training Loss: 0.692689
+Iteration 2040 Training Accuracy: 0.551508252703
+Iteration 2040 Training Increase Accuracy: 0.0
+Iteration 2040 Training Decrease Accuracy: 1.0
+Iteration 2040 Validation Loss: 0.692102
+Iteration 2040 Validation Accuracy: 0.553784860558
+Iteration 2040 Validation Increase Accuracy: 0.0
+Iteration 2040 Validation Decrease Accuracy: 1.0
+Iteration 2070 Training Loss: 0.692551
+Iteration 2070 Training Accuracy: 0.551508252703
+Iteration 2070 Training Increase Accuracy: 0.0
+Iteration 2070 Training Decrease Accuracy: 1.0
+Iteration 2070 Validation Loss: 0.69194
+Iteration 2070 Validation Accuracy: 0.553784860558
+Iteration 2070 Validation Increase Accuracy: 0.0
+Iteration 2070 Validation Decrease Accuracy: 1.0
+Iteration 2100 Training Loss: 0.692298
+Iteration 2100 Training Accuracy: 0.551508252703
+Iteration 2100 Training Increase Accuracy: 0.0
+Iteration 2100 Training Decrease Accuracy: 1.0
+Iteration 2100 Validation Loss: 0.691901
+Iteration 2100 Validation Accuracy: 0.553784860558
+Iteration 2100 Validation Increase Accuracy: 0.0
+Iteration 2100 Validation Decrease Accuracy: 1.0
+Iteration 2130 Training Loss: 0.691965
+Iteration 2130 Training Accuracy: 0.551508252703
+Iteration 2130 Training Increase Accuracy: 0.0
+Iteration 2130 Training Decrease Accuracy: 1.0
+Iteration 2130 Validation Loss: 0.691771
+Iteration 2130 Validation Accuracy: 0.553784860558
+Iteration 2130 Validation Increase Accuracy: 0.0
+Iteration 2130 Validation Decrease Accuracy: 1.0
+Iteration 2160 Training Loss: 0.691791
+Iteration 2160 Training Accuracy: 0.552646556631
+Iteration 2160 Training Increase Accuracy: 0.00253807106599
+Iteration 2160 Training Decrease Accuracy: 1.0
+Iteration 2160 Validation Loss: 0.691727
+Iteration 2160 Validation Accuracy: 0.553784860558
+Iteration 2160 Validation Increase Accuracy: 0.0
+Iteration 2160 Validation Decrease Accuracy: 1.0
+Iteration 2190 Training Loss: 0.691523
+Iteration 2190 Training Accuracy: 0.552646556631
+Iteration 2190 Training Increase Accuracy: 0.00253807106599
+Iteration 2190 Training Decrease Accuracy: 1.0
+Iteration 2190 Validation Loss: 0.691342
+Iteration 2190 Validation Accuracy: 0.553784860558
+Iteration 2190 Validation Increase Accuracy: 0.0
+Iteration 2190 Validation Decrease Accuracy: 1.0
+Iteration 2220 Training Loss: 0.691328
+Iteration 2220 Training Accuracy: 0.553215708594
+Iteration 2220 Training Increase Accuracy: 0.00380710659898
+Iteration 2220 Training Decrease Accuracy: 1.0
+Iteration 2220 Validation Loss: 0.69128
+Iteration 2220 Validation Accuracy: 0.555112881806
+Iteration 2220 Validation Increase Accuracy: 0.00297619047619
+Iteration 2220 Validation Decrease Accuracy: 1.0
+Iteration 2250 Training Loss: 0.691227
+Iteration 2250 Training Accuracy: 0.554923164485
+Iteration 2250 Training Increase Accuracy: 0.00888324873096
+Iteration 2250 Training Decrease Accuracy: 0.998968008256
+Iteration 2250 Validation Loss: 0.691285
+Iteration 2250 Validation Accuracy: 0.556440903054
+Iteration 2250 Validation Increase Accuracy: 0.00892857142857
+Iteration 2250 Validation Decrease Accuracy: 0.997601918465
+Iteration 2280 Training Loss: 0.691155
+Iteration 2280 Training Accuracy: 0.556061468412
+Iteration 2280 Training Increase Accuracy: 0.0203045685279
+Iteration 2280 Training Decrease Accuracy: 0.991744066047
+Iteration 2280 Validation Loss: 0.691399
+Iteration 2280 Validation Accuracy: 0.559096945551
+Iteration 2280 Validation Increase Accuracy: 0.0297619047619
+Iteration 2280 Validation Decrease Accuracy: 0.985611510791
+Iteration 2310 Training Loss: 0.690821
+Iteration 2310 Training Accuracy: 0.554923164485
+Iteration 2310 Training Increase Accuracy: 0.011421319797
+Iteration 2310 Training Decrease Accuracy: 0.996904024768
+Iteration 2310 Validation Loss: 0.691004
+Iteration 2310 Validation Accuracy: 0.553784860558
+Iteration 2310 Validation Increase Accuracy: 0.00892857142857
+Iteration 2310 Validation Decrease Accuracy: 0.992805755396
+Iteration 2340 Training Loss: 0.690561
+Iteration 2340 Training Accuracy: 0.554923164485
+Iteration 2340 Training Increase Accuracy: 0.00888324873096
+Iteration 2340 Training Decrease Accuracy: 0.998968008256
+Iteration 2340 Validation Loss: 0.69053
+Iteration 2340 Validation Accuracy: 0.556440903054
+Iteration 2340 Validation Increase Accuracy: 0.00892857142857
+Iteration 2340 Validation Decrease Accuracy: 0.997601918465
+Iteration 2370 Training Loss: 0.690358
+Iteration 2370 Training Accuracy: 0.554923164485
+Iteration 2370 Training Increase Accuracy: 0.011421319797
+Iteration 2370 Training Decrease Accuracy: 0.996904024768
+Iteration 2370 Validation Loss: 0.690573
+Iteration 2370 Validation Accuracy: 0.555112881806
+Iteration 2370 Validation Increase Accuracy: 0.00892857142857
+Iteration 2370 Validation Decrease Accuracy: 0.99520383693
+Iteration 2400 Training Loss: 0.690292
+Iteration 2400 Training Accuracy: 0.557199772339
+Iteration 2400 Training Increase Accuracy: 0.0279187817259
+Iteration 2400 Training Decrease Accuracy: 0.987616099071
+Iteration 2400 Validation Loss: 0.690665
+Iteration 2400 Validation Accuracy: 0.560424966799
+Iteration 2400 Validation Increase Accuracy: 0.0357142857143
+Iteration 2400 Validation Decrease Accuracy: 0.983213429257
+Iteration 2430 Training Loss: 0.690569
+Iteration 2430 Training Accuracy: 0.563460443939
+Iteration 2430 Training Increase Accuracy: 0.0697969543147
+Iteration 2430 Training Decrease Accuracy: 0.964912280702
+Iteration 2430 Validation Loss: 0.691155
+Iteration 2430 Validation Accuracy: 0.565737051793
+Iteration 2430 Validation Increase Accuracy: 0.0744047619048
+Iteration 2430 Validation Decrease Accuracy: 0.961630695444
+Iteration 2460 Training Loss: 0.689994
+Iteration 2460 Training Accuracy: 0.563460443939
+Iteration 2460 Training Increase Accuracy: 0.0634517766497
+Iteration 2460 Training Decrease Accuracy: 0.970072239422
+Iteration 2460 Validation Loss: 0.690556
+Iteration 2460 Validation Accuracy: 0.565737051793
+Iteration 2460 Validation Increase Accuracy: 0.0714285714286
+Iteration 2460 Validation Decrease Accuracy: 0.964028776978
+Iteration 2490 Training Loss: 0.689433
+Iteration 2490 Training Accuracy: 0.558338076266
+Iteration 2490 Training Increase Accuracy: 0.0266497461929
+Iteration 2490 Training Decrease Accuracy: 0.990712074303
+Iteration 2490 Validation Loss: 0.689769
+Iteration 2490 Validation Accuracy: 0.556440903054
+Iteration 2490 Validation Increase Accuracy: 0.0267857142857
+Iteration 2490 Validation Decrease Accuracy: 0.983213429257
+Iteration 2520 Training Loss: 0.689216
+Iteration 2520 Training Accuracy: 0.557199772339
+Iteration 2520 Training Increase Accuracy: 0.0279187817259
+Iteration 2520 Training Decrease Accuracy: 0.987616099071
+Iteration 2520 Validation Loss: 0.689702
+Iteration 2520 Validation Accuracy: 0.560424966799
+Iteration 2520 Validation Increase Accuracy: 0.0357142857143
+Iteration 2520 Validation Decrease Accuracy: 0.983213429257
+Iteration 2550 Training Loss: 0.68896
+Iteration 2550 Training Accuracy: 0.556630620376
+Iteration 2550 Training Increase Accuracy: 0.0279187817259
+Iteration 2550 Training Decrease Accuracy: 0.986584107327
+Iteration 2550 Validation Loss: 0.689428
+Iteration 2550 Validation Accuracy: 0.560424966799
+Iteration 2550 Validation Increase Accuracy: 0.0357142857143
+Iteration 2550 Validation Decrease Accuracy: 0.983213429257
+Iteration 2580 Training Loss: 0.68924
+Iteration 2580 Training Accuracy: 0.561752988048
+Iteration 2580 Training Increase Accuracy: 0.0913705583756
+Iteration 2580 Training Decrease Accuracy: 0.94427244582
+Iteration 2580 Validation Loss: 0.689944
+Iteration 2580 Validation Accuracy: 0.565737051793
+Iteration 2580 Validation Increase Accuracy: 0.0952380952381
+Iteration 2580 Validation Decrease Accuracy: 0.9448441247
+Iteration 2610 Training Loss: 0.689248
+Iteration 2610 Training Accuracy: 0.567444507684
+Iteration 2610 Training Increase Accuracy: 0.145939086294
+Iteration 2610 Training Decrease Accuracy: 0.910216718266
+Iteration 2610 Validation Loss: 0.690001
+Iteration 2610 Validation Accuracy: 0.567065073041
+Iteration 2610 Validation Increase Accuracy: 0.139880952381
+Iteration 2610 Validation Decrease Accuracy: 0.911270983213
+Iteration 2640 Training Loss: 0.688457
+Iteration 2640 Training Accuracy: 0.563460443939
+Iteration 2640 Training Increase Accuracy: 0.0786802030457
+Iteration 2640 Training Decrease Accuracy: 0.957688338493
+Iteration 2640 Validation Loss: 0.689106
+Iteration 2640 Validation Accuracy: 0.564409030544
+Iteration 2640 Validation Increase Accuracy: 0.0833333333333
+Iteration 2640 Validation Decrease Accuracy: 0.952038369305
+Iteration 2670 Training Loss: 0.688424
+Iteration 2670 Training Accuracy: 0.560045532157
+Iteration 2670 Training Increase Accuracy: 0.120558375635
+Iteration 2670 Training Decrease Accuracy: 0.917440660475
+Iteration 2670 Validation Loss: 0.689362
+Iteration 2670 Validation Accuracy: 0.559096945551
+Iteration 2670 Validation Increase Accuracy: 0.116071428571
+Iteration 2670 Validation Decrease Accuracy: 0.916067146283
+Iteration 2700 Training Loss: 0.687946
+Iteration 2700 Training Accuracy: 0.563460443939
+Iteration 2700 Training Increase Accuracy: 0.0926395939086
+Iteration 2700 Training Decrease Accuracy: 0.946336429309
+Iteration 2700 Validation Loss: 0.688751
+Iteration 2700 Validation Accuracy: 0.564409030544
+Iteration 2700 Validation Increase Accuracy: 0.0922619047619
+Iteration 2700 Validation Decrease Accuracy: 0.9448441247
+Iteration 2730 Training Loss: 0.687444
+Iteration 2730 Training Accuracy: 0.563460443939
+Iteration 2730 Training Increase Accuracy: 0.0685279187817
+Iteration 2730 Training Decrease Accuracy: 0.965944272446
+Iteration 2730 Validation Loss: 0.688057
+Iteration 2730 Validation Accuracy: 0.563081009296
+Iteration 2730 Validation Increase Accuracy: 0.0714285714286
+Iteration 2730 Validation Decrease Accuracy: 0.959232613909
+Iteration 2760 Training Loss: 0.687192
+Iteration 2760 Training Accuracy: 0.557768924303
+Iteration 2760 Training Increase Accuracy: 0.0406091370558
+Iteration 2760 Training Decrease Accuracy: 0.978328173375
+Iteration 2760 Validation Loss: 0.687687
+Iteration 2760 Validation Accuracy: 0.559096945551
+Iteration 2760 Validation Increase Accuracy: 0.047619047619
+Iteration 2760 Validation Decrease Accuracy: 0.971223021583
+Iteration 2790 Training Loss: 0.686969
+Iteration 2790 Training Accuracy: 0.562322140011
+Iteration 2790 Training Increase Accuracy: 0.0634517766497
+Iteration 2790 Training Decrease Accuracy: 0.968008255934
+Iteration 2790 Validation Loss: 0.68757
+Iteration 2790 Validation Accuracy: 0.563081009296
+Iteration 2790 Validation Increase Accuracy: 0.0654761904762
+Iteration 2790 Validation Decrease Accuracy: 0.964028776978
+Iteration 2820 Training Loss: 0.686693
+Iteration 2820 Training Accuracy: 0.562322140011
+Iteration 2820 Training Increase Accuracy: 0.0647208121827
+Iteration 2820 Training Decrease Accuracy: 0.96697626419
+Iteration 2820 Validation Loss: 0.687297
+Iteration 2820 Validation Accuracy: 0.564409030544
+Iteration 2820 Validation Increase Accuracy: 0.0684523809524
+Iteration 2820 Validation Decrease Accuracy: 0.964028776978
+Iteration 2850 Training Loss: 0.686558
+Iteration 2850 Training Accuracy: 0.562322140011
+Iteration 2850 Training Increase Accuracy: 0.0964467005076
+Iteration 2850 Training Decrease Accuracy: 0.941176470588
+Iteration 2850 Validation Loss: 0.687303
+Iteration 2850 Validation Accuracy: 0.561752988048
+Iteration 2850 Validation Increase Accuracy: 0.0952380952381
+Iteration 2850 Validation Decrease Accuracy: 0.937649880096
+Iteration 2880 Training Loss: 0.686204
+Iteration 2880 Training Accuracy: 0.560045532157
+Iteration 2880 Training Increase Accuracy: 0.0761421319797
+Iteration 2880 Training Decrease Accuracy: 0.953560371517
+Iteration 2880 Validation Loss: 0.68685
+Iteration 2880 Validation Accuracy: 0.561752988048
+Iteration 2880 Validation Increase Accuracy: 0.0833333333333
+Iteration 2880 Validation Decrease Accuracy: 0.947242206235
+Iteration 2910 Training Loss: 0.68608
+Iteration 2910 Training Accuracy: 0.562891291975
+Iteration 2910 Training Increase Accuracy: 0.110406091371
+Iteration 2910 Training Decrease Accuracy: 0.930856553148
+Iteration 2910 Validation Loss: 0.686928
+Iteration 2910 Validation Accuracy: 0.559096945551
+Iteration 2910 Validation Increase Accuracy: 0.110119047619
+Iteration 2910 Validation Decrease Accuracy: 0.920863309353
+Iteration 2940 Training Loss: 0.686221
+Iteration 2940 Training Accuracy: 0.578258394991
+Iteration 2940 Training Increase Accuracy: 0.209390862944
+Iteration 2940 Training Decrease Accuracy: 0.8782249742
+Iteration 2940 Validation Loss: 0.687275
+Iteration 2940 Validation Accuracy: 0.573705179283
+Iteration 2940 Validation Increase Accuracy: 0.21130952381
+Iteration 2940 Validation Decrease Accuracy: 0.865707434053
+Iteration 2970 Training Loss: 0.68704
+Iteration 2970 Training Accuracy: 0.583380762664
+Iteration 2970 Training Increase Accuracy: 0.310913705584
+Iteration 2970 Training Decrease Accuracy: 0.804953560372
+Iteration 2970 Validation Loss: 0.688383
+Iteration 2970 Validation Accuracy: 0.57636122178
+Iteration 2970 Validation Increase Accuracy: 0.28869047619
+Iteration 2970 Validation Decrease Accuracy: 0.808153477218
+Iteration 3000 Training Loss: 0.685411
+Iteration 3000 Training Accuracy: 0.563460443939
+Iteration 3000 Training Increase Accuracy: 0.168781725888
+Iteration 3000 Training Decrease Accuracy: 0.884416924665
+Iteration 3000 Validation Loss: 0.686377
+Iteration 3000 Validation Accuracy: 0.569721115538
+Iteration 3000 Validation Increase Accuracy: 0.175595238095
+Iteration 3000 Validation Decrease Accuracy: 0.887290167866
+Iteration 3030 Training Loss: 0.68496
+Iteration 3030 Training Accuracy: 0.55890722823
+Iteration 3030 Training Increase Accuracy: 0.138324873096
+Iteration 3030 Training Decrease Accuracy: 0.90092879257
+Iteration 3030 Validation Loss: 0.685906
+Iteration 3030 Validation Accuracy: 0.559096945551
+Iteration 3030 Validation Increase Accuracy: 0.145833333333
+Iteration 3030 Validation Decrease Accuracy: 0.892086330935
+Iteration 3060 Training Loss: 0.684735
+Iteration 3060 Training Accuracy: 0.556630620376
+Iteration 3060 Training Increase Accuracy: 0.138324873096
+Iteration 3060 Training Decrease Accuracy: 0.896800825593
+Iteration 3060 Validation Loss: 0.685809
+Iteration 3060 Validation Accuracy: 0.560424966799
+Iteration 3060 Validation Increase Accuracy: 0.145833333333
+Iteration 3060 Validation Decrease Accuracy: 0.89448441247
+Iteration 3090 Training Loss: 0.684879
+Iteration 3090 Training Accuracy: 0.560614684121
+Iteration 3090 Training Increase Accuracy: 0.0761421319797
+Iteration 3090 Training Decrease Accuracy: 0.954592363261
+Iteration 3090 Validation Loss: 0.685807
+Iteration 3090 Validation Accuracy: 0.561752988048
+Iteration 3090 Validation Increase Accuracy: 0.077380952381
+Iteration 3090 Validation Decrease Accuracy: 0.952038369305
+Iteration 3120 Training Loss: 0.684421
+Iteration 3120 Training Accuracy: 0.560045532157
+Iteration 3120 Training Increase Accuracy: 0.162436548223
+Iteration 3120 Training Decrease Accuracy: 0.883384932921
+Iteration 3120 Validation Loss: 0.685786
+Iteration 3120 Validation Accuracy: 0.564409030544
+Iteration 3120 Validation Increase Accuracy: 0.172619047619
+Iteration 3120 Validation Decrease Accuracy: 0.880095923261
+Iteration 3150 Training Loss: 0.684112
+Iteration 3150 Training Accuracy: 0.55890722823
+Iteration 3150 Training Increase Accuracy: 0.13578680203
+Iteration 3150 Training Decrease Accuracy: 0.902992776058
+Iteration 3150 Validation Loss: 0.68542
+Iteration 3150 Validation Accuracy: 0.563081009296
+Iteration 3150 Validation Increase Accuracy: 0.145833333333
+Iteration 3150 Validation Decrease Accuracy: 0.89928057554
+Iteration 3180 Training Loss: 0.684111
+Iteration 3180 Training Accuracy: 0.583380762664
+Iteration 3180 Training Increase Accuracy: 0.227157360406
+Iteration 3180 Training Decrease Accuracy: 0.87306501548
+Iteration 3180 Validation Loss: 0.685535
+Iteration 3180 Validation Accuracy: 0.577689243028
+Iteration 3180 Validation Increase Accuracy: 0.223214285714
+Iteration 3180 Validation Decrease Accuracy: 0.863309352518
+Iteration 3210 Training Loss: 0.683998
+Iteration 3210 Training Accuracy: 0.581104154809
+Iteration 3210 Training Increase Accuracy: 0.244923857868
+Iteration 3210 Training Decrease Accuracy: 0.854489164087
+Iteration 3210 Validation Loss: 0.685502
+Iteration 3210 Validation Accuracy: 0.575033200531
+Iteration 3210 Validation Increase Accuracy: 0.241071428571
+Iteration 3210 Validation Decrease Accuracy: 0.84412470024
+Iteration 3240 Training Loss: 0.683909
+Iteration 3240 Training Accuracy: 0.591348890154
+Iteration 3240 Training Increase Accuracy: 0.285532994924
+Iteration 3240 Training Decrease Accuracy: 0.84004127967
+Iteration 3240 Validation Loss: 0.6854
+Iteration 3240 Validation Accuracy: 0.56839309429
+Iteration 3240 Validation Increase Accuracy: 0.258928571429
+Iteration 3240 Validation Decrease Accuracy: 0.817745803357
+Iteration 3270 Training Loss: 0.683451
+Iteration 3270 Training Accuracy: 0.581104154809
+Iteration 3270 Training Increase Accuracy: 0.260152284264
+Iteration 3270 Training Decrease Accuracy: 0.842105263158
+Iteration 3270 Validation Loss: 0.685018
+Iteration 3270 Validation Accuracy: 0.573705179283
+Iteration 3270 Validation Increase Accuracy: 0.241071428571
+Iteration 3270 Validation Decrease Accuracy: 0.841726618705
+Iteration 3300 Training Loss: 0.682852
+Iteration 3300 Training Accuracy: 0.557199772339
+Iteration 3300 Training Increase Accuracy: 0.142131979695
+Iteration 3300 Training Decrease Accuracy: 0.894736842105
+Iteration 3300 Validation Loss: 0.684065
+Iteration 3300 Validation Accuracy: 0.557768924303
+Iteration 3300 Validation Increase Accuracy: 0.14880952381
+Iteration 3300 Validation Decrease Accuracy: 0.887290167866
+Iteration 3330 Training Loss: 0.68253
+Iteration 3330 Training Accuracy: 0.557768924303
+Iteration 3330 Training Increase Accuracy: 0.159898477157
+Iteration 3330 Training Decrease Accuracy: 0.881320949432
+Iteration 3330 Validation Loss: 0.683905
+Iteration 3330 Validation Accuracy: 0.560424966799
+Iteration 3330 Validation Increase Accuracy: 0.166666666667
+Iteration 3330 Validation Decrease Accuracy: 0.877697841727
+Iteration 3360 Training Loss: 0.68235
+Iteration 3360 Training Accuracy: 0.560045532157
+Iteration 3360 Training Increase Accuracy: 0.159898477157
+Iteration 3360 Training Decrease Accuracy: 0.885448916409
+Iteration 3360 Validation Loss: 0.683815
+Iteration 3360 Validation Accuracy: 0.560424966799
+Iteration 3360 Validation Increase Accuracy: 0.166666666667
+Iteration 3360 Validation Decrease Accuracy: 0.877697841727
+Iteration 3390 Training Loss: 0.682131
+Iteration 3390 Training Accuracy: 0.578827546955
+Iteration 3390 Training Increase Accuracy: 0.223350253807
+Iteration 3390 Training Decrease Accuracy: 0.86790505676
+Iteration 3390 Validation Loss: 0.683531
+Iteration 3390 Validation Accuracy: 0.580345285525
+Iteration 3390 Validation Increase Accuracy: 0.22619047619
+Iteration 3390 Validation Decrease Accuracy: 0.865707434053
+Iteration 3420 Training Loss: 0.681736
+Iteration 3420 Training Accuracy: 0.562891291975
+Iteration 3420 Training Increase Accuracy: 0.170050761421
+Iteration 3420 Training Decrease Accuracy: 0.882352941176
+Iteration 3420 Validation Loss: 0.682724
+Iteration 3420 Validation Accuracy: 0.564409030544
+Iteration 3420 Validation Increase Accuracy: 0.178571428571
+Iteration 3420 Validation Decrease Accuracy: 0.875299760192
+Iteration 3450 Training Loss: 0.681442
+Iteration 3450 Training Accuracy: 0.559476380194
+Iteration 3450 Training Increase Accuracy: 0.13578680203
+Iteration 3450 Training Decrease Accuracy: 0.904024767802
+Iteration 3450 Validation Loss: 0.682194
+Iteration 3450 Validation Accuracy: 0.557768924303
+Iteration 3450 Validation Increase Accuracy: 0.139880952381
+Iteration 3450 Validation Decrease Accuracy: 0.89448441247
+Iteration 3480 Training Loss: 0.681673
+Iteration 3480 Training Accuracy: 0.589641434263
+Iteration 3480 Training Increase Accuracy: 0.270304568528
+Iteration 3480 Training Decrease Accuracy: 0.849329205366
+Iteration 3480 Validation Loss: 0.682868
+Iteration 3480 Validation Accuracy: 0.575033200531
+Iteration 3480 Validation Increase Accuracy: 0.258928571429
+Iteration 3480 Validation Decrease Accuracy: 0.829736211031
+Iteration 3510 Training Loss: 0.680928
+Iteration 3510 Training Accuracy: 0.575981787137
+Iteration 3510 Training Increase Accuracy: 0.210659898477
+Iteration 3510 Training Decrease Accuracy: 0.87306501548
+Iteration 3510 Validation Loss: 0.681941
+Iteration 3510 Validation Accuracy: 0.58432934927
+Iteration 3510 Validation Increase Accuracy: 0.22619047619
+Iteration 3510 Validation Decrease Accuracy: 0.872901678657
+Iteration 3540 Training Loss: 0.680686
+Iteration 3540 Training Accuracy: 0.575981787137
+Iteration 3540 Training Increase Accuracy: 0.209390862944
+Iteration 3540 Training Decrease Accuracy: 0.874097007224
+Iteration 3540 Validation Loss: 0.68173
+Iteration 3540 Validation Accuracy: 0.581673306773
+Iteration 3540 Validation Increase Accuracy: 0.223214285714
+Iteration 3540 Validation Decrease Accuracy: 0.870503597122
+Iteration 3570 Training Loss: 0.680529
+Iteration 3570 Training Accuracy: 0.581673306773
+Iteration 3570 Training Increase Accuracy: 0.233502538071
+Iteration 3570 Training Decrease Accuracy: 0.864809081527
+Iteration 3570 Validation Loss: 0.681527
+Iteration 3570 Validation Accuracy: 0.579017264276
+Iteration 3570 Validation Increase Accuracy: 0.238095238095
+Iteration 3570 Validation Decrease Accuracy: 0.853717026379
+Iteration 3600 Training Loss: 0.680543
+Iteration 3600 Training Accuracy: 0.59077973819
+Iteration 3600 Training Increase Accuracy: 0.276649746193
+Iteration 3600 Training Decrease Accuracy: 0.846233230134
+Iteration 3600 Validation Loss: 0.681822
+Iteration 3600 Validation Accuracy: 0.579017264276
+Iteration 3600 Validation Increase Accuracy: 0.27380952381
+Iteration 3600 Validation Decrease Accuracy: 0.824940047962
+Iteration 3630 Training Loss: 0.679868
+Iteration 3630 Training Accuracy: 0.559476380194
+Iteration 3630 Training Increase Accuracy: 0.149746192893
+Iteration 3630 Training Decrease Accuracy: 0.892672858617
+Iteration 3630 Validation Loss: 0.680784
+Iteration 3630 Validation Accuracy: 0.557768924303
+Iteration 3630 Validation Increase Accuracy: 0.14880952381
+Iteration 3630 Validation Decrease Accuracy: 0.887290167866
+Iteration 3660 Training Loss: 0.679524
+Iteration 3660 Training Accuracy: 0.575981787137
+Iteration 3660 Training Increase Accuracy: 0.205583756345
+Iteration 3660 Training Decrease Accuracy: 0.877192982456
+Iteration 3660 Validation Loss: 0.68042
+Iteration 3660 Validation Accuracy: 0.57636122178
+Iteration 3660 Validation Increase Accuracy: 0.214285714286
+Iteration 3660 Validation Decrease Accuracy: 0.868105515588
+Iteration 3690 Training Loss: 0.679206
+Iteration 3690 Training Accuracy: 0.581104154809
+Iteration 3690 Training Increase Accuracy: 0.220812182741
+Iteration 3690 Training Decrease Accuracy: 0.874097007224
+Iteration 3690 Validation Loss: 0.680144
+Iteration 3690 Validation Accuracy: 0.573705179283
+Iteration 3690 Validation Increase Accuracy: 0.220238095238
+Iteration 3690 Validation Decrease Accuracy: 0.858513189448
+Iteration 3720 Training Loss: 0.679143
+Iteration 3720 Training Accuracy: 0.566306203756
+Iteration 3720 Training Increase Accuracy: 0.13578680203
+Iteration 3720 Training Decrease Accuracy: 0.916408668731
+Iteration 3720 Validation Loss: 0.680095
+Iteration 3720 Validation Accuracy: 0.567065073041
+Iteration 3720 Validation Increase Accuracy: 0.139880952381
+Iteration 3720 Validation Decrease Accuracy: 0.911270983213
+Iteration 3750 Training Loss: 0.678972
+Iteration 3750 Training Accuracy: 0.56687535572
+Iteration 3750 Training Increase Accuracy: 0.126903553299
+Iteration 3750 Training Decrease Accuracy: 0.924664602683
+Iteration 3750 Validation Loss: 0.679793
+Iteration 3750 Validation Accuracy: 0.56839309429
+Iteration 3750 Validation Increase Accuracy: 0.130952380952
+Iteration 3750 Validation Decrease Accuracy: 0.920863309353
+Iteration 3780 Training Loss: 0.678564
+Iteration 3780 Training Accuracy: 0.593625498008
+Iteration 3780 Training Increase Accuracy: 0.271573604061
+Iteration 3780 Training Decrease Accuracy: 0.855521155831
+Iteration 3780 Validation Loss: 0.679822
+Iteration 3780 Validation Accuracy: 0.581673306773
+Iteration 3780 Validation Increase Accuracy: 0.27380952381
+Iteration 3780 Validation Decrease Accuracy: 0.829736211031
+Iteration 3810 Training Loss: 0.677748
+Iteration 3810 Training Accuracy: 0.582242458736
+Iteration 3810 Training Increase Accuracy: 0.209390862944
+Iteration 3810 Training Decrease Accuracy: 0.885448916409
+Iteration 3810 Validation Loss: 0.678723
+Iteration 3810 Validation Accuracy: 0.575033200531
+Iteration 3810 Validation Increase Accuracy: 0.21130952381
+Iteration 3810 Validation Decrease Accuracy: 0.868105515588
+Iteration 3840 Training Loss: 0.677377
+Iteration 3840 Training Accuracy: 0.583949914627
+Iteration 3840 Training Increase Accuracy: 0.214467005076
+Iteration 3840 Training Decrease Accuracy: 0.884416924665
+Iteration 3840 Validation Loss: 0.678296
+Iteration 3840 Validation Accuracy: 0.573705179283
+Iteration 3840 Validation Increase Accuracy: 0.21130952381
+Iteration 3840 Validation Decrease Accuracy: 0.865707434053
+Iteration 3870 Training Loss: 0.677018
+Iteration 3870 Training Accuracy: 0.590210586227
+Iteration 3870 Training Increase Accuracy: 0.242385786802
+Iteration 3870 Training Decrease Accuracy: 0.87306501548
+Iteration 3870 Validation Loss: 0.677887
+Iteration 3870 Validation Accuracy: 0.577689243028
+Iteration 3870 Validation Increase Accuracy: 0.229166666667
+Iteration 3870 Validation Decrease Accuracy: 0.858513189448
+Iteration 3900 Training Loss: 0.676662
+Iteration 3900 Training Accuracy: 0.583949914627
+Iteration 3900 Training Increase Accuracy: 0.21192893401
+Iteration 3900 Training Decrease Accuracy: 0.886480908153
+Iteration 3900 Validation Loss: 0.677712
+Iteration 3900 Validation Accuracy: 0.577689243028
+Iteration 3900 Validation Increase Accuracy: 0.217261904762
+Iteration 3900 Validation Decrease Accuracy: 0.868105515588
+Iteration 3930 Training Loss: 0.676503
+Iteration 3930 Training Accuracy: 0.575412635174
+Iteration 3930 Training Increase Accuracy: 0.162436548223
+Iteration 3930 Training Decrease Accuracy: 0.91124871001
+Iteration 3930 Validation Loss: 0.677299
+Iteration 3930 Validation Accuracy: 0.579017264276
+Iteration 3930 Validation Increase Accuracy: 0.172619047619
+Iteration 3930 Validation Decrease Accuracy: 0.906474820144
+Iteration 3960 Training Loss: 0.676225
+Iteration 3960 Training Accuracy: 0.574274331246
+Iteration 3960 Training Increase Accuracy: 0.16116751269
+Iteration 3960 Training Decrease Accuracy: 0.910216718266
+Iteration 3960 Validation Loss: 0.677064
+Iteration 3960 Validation Accuracy: 0.572377158035
+Iteration 3960 Validation Increase Accuracy: 0.157738095238
+Iteration 3960 Validation Decrease Accuracy: 0.906474820144
+Iteration 3990 Training Loss: 0.677951
+Iteration 3990 Training Accuracy: 0.562322140011
+Iteration 3990 Training Increase Accuracy: 0.0685279187817
+Iteration 3990 Training Decrease Accuracy: 0.963880288958
+Iteration 3990 Validation Loss: 0.678383
+Iteration 3990 Validation Accuracy: 0.559096945551
+Iteration 3990 Validation Increase Accuracy: 0.0595238095238
+Iteration 3990 Validation Decrease Accuracy: 0.961630695444
+Iteration 4020 Training Loss: 0.676872
+Iteration 4020 Training Accuracy: 0.566306203756
+Iteration 4020 Training Increase Accuracy: 0.0926395939086
+Iteration 4020 Training Decrease Accuracy: 0.951496388029
+Iteration 4020 Validation Loss: 0.67746
+Iteration 4020 Validation Accuracy: 0.563081009296
+Iteration 4020 Validation Increase Accuracy: 0.0922619047619
+Iteration 4020 Validation Decrease Accuracy: 0.942446043165
+Iteration 4050 Training Loss: 0.674873
+Iteration 4050 Training Accuracy: 0.603870233352
+Iteration 4050 Training Increase Accuracy: 0.269035532995
+Iteration 4050 Training Decrease Accuracy: 0.876160990712
+Iteration 4050 Validation Loss: 0.675325
+Iteration 4050 Validation Accuracy: 0.586985391766
+Iteration 4050 Validation Increase Accuracy: 0.255952380952
+Iteration 4050 Validation Decrease Accuracy: 0.853717026379
+Iteration 4080 Training Loss: 0.674583
+Iteration 4080 Training Accuracy: 0.599317017644
+Iteration 4080 Training Increase Accuracy: 0.291878172589
+Iteration 4080 Training Decrease Accuracy: 0.849329205366
+Iteration 4080 Validation Loss: 0.675518
+Iteration 4080 Validation Accuracy: 0.58432934927
+Iteration 4080 Validation Increase Accuracy: 0.285714285714
+Iteration 4080 Validation Decrease Accuracy: 0.824940047962
+Iteration 4110 Training Loss: 0.674665
+Iteration 4110 Training Accuracy: 0.611838360842
+Iteration 4110 Training Increase Accuracy: 0.379441624365
+Iteration 4110 Training Decrease Accuracy: 0.800825593395
+Iteration 4110 Validation Loss: 0.675728
+Iteration 4110 Validation Accuracy: 0.59229747676
+Iteration 4110 Validation Increase Accuracy: 0.342261904762
+Iteration 4110 Validation Decrease Accuracy: 0.79376498801
+Iteration 4140 Training Loss: 0.673921
+Iteration 4140 Training Accuracy: 0.599317017644
+Iteration 4140 Training Increase Accuracy: 0.319796954315
+Iteration 4140 Training Decrease Accuracy: 0.826625386997
+Iteration 4140 Validation Loss: 0.675579
+Iteration 4140 Validation Accuracy: 0.597609561753
+Iteration 4140 Validation Increase Accuracy: 0.321428571429
+Iteration 4140 Validation Decrease Accuracy: 0.820143884892
+Iteration 4170 Training Loss: 0.673673
+Iteration 4170 Training Accuracy: 0.601593625498
+Iteration 4170 Training Increase Accuracy: 0.312182741117
+Iteration 4170 Training Decrease Accuracy: 0.836945304438
+Iteration 4170 Validation Loss: 0.675736
+Iteration 4170 Validation Accuracy: 0.589641434263
+Iteration 4170 Validation Increase Accuracy: 0.303571428571
+Iteration 4170 Validation Decrease Accuracy: 0.820143884892
+Iteration 4200 Training Loss: 0.673798
+Iteration 4200 Training Accuracy: 0.582242458736
+Iteration 4200 Training Increase Accuracy: 0.213197969543
+Iteration 4200 Training Decrease Accuracy: 0.882352941176
+Iteration 4200 Validation Loss: 0.675813
+Iteration 4200 Validation Accuracy: 0.577689243028
+Iteration 4200 Validation Increase Accuracy: 0.220238095238
+Iteration 4200 Validation Decrease Accuracy: 0.865707434053
+Iteration 4230 Training Loss: 0.673204
+Iteration 4230 Training Accuracy: 0.606146841207
+Iteration 4230 Training Increase Accuracy: 0.361675126904
+Iteration 4230 Training Decrease Accuracy: 0.804953560372
+Iteration 4230 Validation Loss: 0.675618
+Iteration 4230 Validation Accuracy: 0.589641434263
+Iteration 4230 Validation Increase Accuracy: 0.330357142857
+Iteration 4230 Validation Decrease Accuracy: 0.798561151079
+Iteration 4260 Training Loss: 0.6724
+Iteration 4260 Training Accuracy: 0.591918042117
+Iteration 4260 Training Increase Accuracy: 0.263959390863
+Iteration 4260 Training Decrease Accuracy: 0.858617131063
+Iteration 4260 Validation Loss: 0.674591
+Iteration 4260 Validation Accuracy: 0.581673306773
+Iteration 4260 Validation Increase Accuracy: 0.27380952381
+Iteration 4260 Validation Decrease Accuracy: 0.829736211031
+Iteration 4290 Training Loss: 0.672326
+Iteration 4290 Training Accuracy: 0.589072282299
+Iteration 4290 Training Increase Accuracy: 0.22461928934
+Iteration 4290 Training Decrease Accuracy: 0.885448916409
+Iteration 4290 Validation Loss: 0.674303
+Iteration 4290 Validation Accuracy: 0.58432934927
+Iteration 4290 Validation Increase Accuracy: 0.229166666667
+Iteration 4290 Validation Decrease Accuracy: 0.870503597122
+Iteration 4320 Training Loss: 0.671673
+Iteration 4320 Training Accuracy: 0.589072282299
+Iteration 4320 Training Increase Accuracy: 0.227157360406
+Iteration 4320 Training Decrease Accuracy: 0.883384932921
+Iteration 4320 Validation Loss: 0.673462
+Iteration 4320 Validation Accuracy: 0.581673306773
+Iteration 4320 Validation Increase Accuracy: 0.229166666667
+Iteration 4320 Validation Decrease Accuracy: 0.865707434053
+Iteration 4350 Training Loss: 0.670629
+Iteration 4350 Training Accuracy: 0.604439385316
+Iteration 4350 Training Increase Accuracy: 0.315989847716
+Iteration 4350 Training Decrease Accuracy: 0.839009287926
+Iteration 4350 Validation Loss: 0.67245
+Iteration 4350 Validation Accuracy: 0.598937583001
+Iteration 4350 Validation Increase Accuracy: 0.318452380952
+Iteration 4350 Validation Decrease Accuracy: 0.824940047962
+Iteration 4380 Training Loss: 0.670404
+Iteration 4380 Training Accuracy: 0.612976664769
+Iteration 4380 Training Increase Accuracy: 0.365482233503
+Iteration 4380 Training Decrease Accuracy: 0.814241486068
+Iteration 4380 Validation Loss: 0.672494
+Iteration 4380 Validation Accuracy: 0.59229747676
+Iteration 4380 Validation Increase Accuracy: 0.339285714286
+Iteration 4380 Validation Decrease Accuracy: 0.796163069544
+Iteration 4410 Training Loss: 0.671358
+Iteration 4410 Training Accuracy: 0.583380762664
+Iteration 4410 Training Increase Accuracy: 0.18654822335
+Iteration 4410 Training Decrease Accuracy: 0.90608875129
+Iteration 4410 Validation Loss: 0.672837
+Iteration 4410 Validation Accuracy: 0.583001328021
+Iteration 4410 Validation Increase Accuracy: 0.1875
+Iteration 4410 Validation Decrease Accuracy: 0.901678657074
+Iteration 4440 Training Loss: 0.669088
+Iteration 4440 Training Accuracy: 0.611838360842
+Iteration 4440 Training Increase Accuracy: 0.328680203046
+Iteration 4440 Training Decrease Accuracy: 0.842105263158
+Iteration 4440 Validation Loss: 0.670551
+Iteration 4440 Validation Accuracy: 0.601593625498
+Iteration 4440 Validation Increase Accuracy: 0.324404761905
+Iteration 4440 Validation Decrease Accuracy: 0.824940047962
+Iteration 4470 Training Loss: 0.668902
+Iteration 4470 Training Accuracy: 0.63062037564
+Iteration 4470 Training Increase Accuracy: 0.394670050761
+Iteration 4470 Training Decrease Accuracy: 0.822497420021
+Iteration 4470 Validation Loss: 0.669543
+Iteration 4470 Validation Accuracy: 0.596281540505
+Iteration 4470 Validation Increase Accuracy: 0.342261904762
+Iteration 4470 Validation Decrease Accuracy: 0.800959232614
+Iteration 4500 Training Loss: 0.668807
+Iteration 4500 Training Accuracy: 0.594194649972
+Iteration 4500 Training Increase Accuracy: 0.236040609137
+Iteration 4500 Training Decrease Accuracy: 0.885448916409
+Iteration 4500 Validation Loss: 0.669934
+Iteration 4500 Validation Accuracy: 0.588313413015
+Iteration 4500 Validation Increase Accuracy: 0.232142857143
+Iteration 4500 Validation Decrease Accuracy: 0.875299760192
+Iteration 4530 Training Loss: 0.668972
+Iteration 4530 Training Accuracy: 0.59077973819
+Iteration 4530 Training Increase Accuracy: 0.215736040609
+Iteration 4530 Training Decrease Accuracy: 0.895768833849
+Iteration 4530 Validation Loss: 0.670251
+Iteration 4530 Validation Accuracy: 0.58432934927
+Iteration 4530 Validation Increase Accuracy: 0.214285714286
+Iteration 4530 Validation Decrease Accuracy: 0.882494004796
+Iteration 4560 Training Loss: 0.668319
+Iteration 4560 Training Accuracy: 0.621513944223
+Iteration 4560 Training Increase Accuracy: 0.427664974619
+Iteration 4560 Training Decrease Accuracy: 0.77915376677
+Iteration 4560 Validation Loss: 0.670174
+Iteration 4560 Validation Accuracy: 0.586985391766
+Iteration 4560 Validation Increase Accuracy: 0.372023809524
+Iteration 4560 Validation Decrease Accuracy: 0.760191846523
+Iteration 4590 Training Loss: 0.668822
+Iteration 4590 Training Accuracy: 0.624359704041
+Iteration 4590 Training Increase Accuracy: 0.480964467005
+Iteration 4590 Training Decrease Accuracy: 0.740970072239
+Iteration 4590 Validation Loss: 0.670818
+Iteration 4590 Validation Accuracy: 0.597609561753
+Iteration 4590 Validation Increase Accuracy: 0.4375
+Iteration 4590 Validation Decrease Accuracy: 0.726618705036
+Iteration 4620 Training Loss: 0.66781
+Iteration 4620 Training Accuracy: 0.634035287422
+Iteration 4620 Training Increase Accuracy: 0.469543147208
+Iteration 4620 Training Decrease Accuracy: 0.767801857585
+Iteration 4620 Validation Loss: 0.668831
+Iteration 4620 Validation Accuracy: 0.602921646746
+Iteration 4620 Validation Increase Accuracy: 0.422619047619
+Iteration 4620 Validation Decrease Accuracy: 0.748201438849
+Iteration 4650 Training Loss: 0.667899
+Iteration 4650 Training Accuracy: 0.626067159932
+Iteration 4650 Training Increase Accuracy: 0.472081218274
+Iteration 4650 Training Decrease Accuracy: 0.75128998968
+Iteration 4650 Validation Loss: 0.669719
+Iteration 4650 Validation Accuracy: 0.589641434263
+Iteration 4650 Validation Increase Accuracy: 0.416666666667
+Iteration 4650 Validation Decrease Accuracy: 0.729016786571
+Iteration 4680 Training Loss: 0.666786
+Iteration 4680 Training Accuracy: 0.607854297097
+Iteration 4680 Training Increase Accuracy: 0.309644670051
+Iteration 4680 Training Decrease Accuracy: 0.85036119711
+Iteration 4680 Validation Loss: 0.668831
+Iteration 4680 Validation Accuracy: 0.598937583001
+Iteration 4680 Validation Increase Accuracy: 0.309523809524
+Iteration 4680 Validation Decrease Accuracy: 0.832134292566
+Iteration 4710 Training Loss: 0.666877
+Iteration 4710 Training Accuracy: 0.589072282299
+Iteration 4710 Training Increase Accuracy: 0.213197969543
+Iteration 4710 Training Decrease Accuracy: 0.894736842105
+Iteration 4710 Validation Loss: 0.667995
+Iteration 4710 Validation Accuracy: 0.585657370518
+Iteration 4710 Validation Increase Accuracy: 0.214285714286
+Iteration 4710 Validation Decrease Accuracy: 0.884892086331
+Iteration 4740 Training Loss: 0.666727
+Iteration 4740 Training Accuracy: 0.583949914627
+Iteration 4740 Training Increase Accuracy: 0.190355329949
+Iteration 4740 Training Decrease Accuracy: 0.904024767802
+Iteration 4740 Validation Loss: 0.667555
+Iteration 4740 Validation Accuracy: 0.581673306773
+Iteration 4740 Validation Increase Accuracy: 0.196428571429
+Iteration 4740 Validation Decrease Accuracy: 0.892086330935
+Iteration 4770 Training Loss: 0.66487
+Iteration 4770 Training Accuracy: 0.604439385316
+Iteration 4770 Training Increase Accuracy: 0.271573604061
+Iteration 4770 Training Decrease Accuracy: 0.875128998968
+Iteration 4770 Validation Loss: 0.665632
+Iteration 4770 Validation Accuracy: 0.598937583001
+Iteration 4770 Validation Increase Accuracy: 0.261904761905
+Iteration 4770 Validation Decrease Accuracy: 0.870503597122
+Iteration 4800 Training Loss: 0.66492
+Iteration 4800 Training Accuracy: 0.64484917473
+Iteration 4800 Training Increase Accuracy: 0.454314720812
+Iteration 4800 Training Decrease Accuracy: 0.799793601651
+Iteration 4800 Validation Loss: 0.664062
+Iteration 4800 Validation Accuracy: 0.610889774236
+Iteration 4800 Validation Increase Accuracy: 0.39880952381
+Iteration 4800 Validation Decrease Accuracy: 0.781774580336
+Iteration 4830 Training Loss: 0.663771
+Iteration 4830 Training Accuracy: 0.616391576551
+Iteration 4830 Training Increase Accuracy: 0.307106598985
+Iteration 4830 Training Decrease Accuracy: 0.86790505676
+Iteration 4830 Validation Loss: 0.663993
+Iteration 4830 Validation Accuracy: 0.605577689243
+Iteration 4830 Validation Increase Accuracy: 0.285714285714
+Iteration 4830 Validation Decrease Accuracy: 0.863309352518
+Iteration 4860 Training Loss: 0.66335
+Iteration 4860 Training Accuracy: 0.61468412066
+Iteration 4860 Training Increase Accuracy: 0.307106598985
+Iteration 4860 Training Decrease Accuracy: 0.864809081527
+Iteration 4860 Validation Loss: 0.663426
+Iteration 4860 Validation Accuracy: 0.602921646746
+Iteration 4860 Validation Increase Accuracy: 0.285714285714
+Iteration 4860 Validation Decrease Accuracy: 0.858513189448
+Iteration 4890 Training Loss: 0.663185
+Iteration 4890 Training Accuracy: 0.615253272624
+Iteration 4890 Training Increase Accuracy: 0.291878172589
+Iteration 4890 Training Decrease Accuracy: 0.8782249742
+Iteration 4890 Validation Loss: 0.663113
+Iteration 4890 Validation Accuracy: 0.602921646746
+Iteration 4890 Validation Increase Accuracy: 0.267857142857
+Iteration 4890 Validation Decrease Accuracy: 0.872901678657
+Iteration 4920 Training Loss: 0.663425
+Iteration 4920 Training Accuracy: 0.595332953899
+Iteration 4920 Training Increase Accuracy: 0.206852791878
+Iteration 4920 Training Decrease Accuracy: 0.91124871001
+Iteration 4920 Validation Loss: 0.663207
+Iteration 4920 Validation Accuracy: 0.588313413015
+Iteration 4920 Validation Increase Accuracy: 0.199404761905
+Iteration 4920 Validation Decrease Accuracy: 0.901678657074
+Iteration 4950 Training Loss: 0.66239
+Iteration 4950 Training Accuracy: 0.63858850313
+Iteration 4950 Training Increase Accuracy: 0.414974619289
+Iteration 4950 Training Decrease Accuracy: 0.820433436533
+Iteration 4950 Validation Loss: 0.662052
+Iteration 4950 Validation Accuracy: 0.605577689243
+Iteration 4950 Validation Increase Accuracy: 0.360119047619
+Iteration 4950 Validation Decrease Accuracy: 0.803357314149
+Iteration 4980 Training Loss: 0.662688
+Iteration 4980 Training Accuracy: 0.638019351167
+Iteration 4980 Training Increase Accuracy: 0.454314720812
+Iteration 4980 Training Decrease Accuracy: 0.787409700722
+Iteration 4980 Validation Loss: 0.662042
+Iteration 4980 Validation Accuracy: 0.618857901726
+Iteration 4980 Validation Increase Accuracy: 0.434523809524
+Iteration 4980 Validation Decrease Accuracy: 0.767386091127
+Iteration 5010 Training Loss: 0.661378
+Iteration 5010 Training Accuracy: 0.62891291975
+Iteration 5010 Training Increase Accuracy: 0.359137055838
+Iteration 5010 Training Decrease Accuracy: 0.848297213622
+Iteration 5010 Validation Loss: 0.660554
+Iteration 5010 Validation Accuracy: 0.606905710491
+Iteration 5010 Validation Increase Accuracy: 0.318452380952
+Iteration 5010 Validation Decrease Accuracy: 0.83932853717
+Iteration 5040 Training Loss: 0.662103
+Iteration 5040 Training Accuracy: 0.63062037564
+Iteration 5040 Training Increase Accuracy: 0.455583756345
+Iteration 5040 Training Decrease Accuracy: 0.772961816305
+Iteration 5040 Validation Loss: 0.660745
+Iteration 5040 Validation Accuracy: 0.622841965471
+Iteration 5040 Validation Increase Accuracy: 0.443452380952
+Iteration 5040 Validation Decrease Accuracy: 0.767386091127
+Iteration 5070 Training Loss: 0.66129
+Iteration 5070 Training Accuracy: 0.612407512806
+Iteration 5070 Training Increase Accuracy: 0.253807106599
+Iteration 5070 Training Decrease Accuracy: 0.904024767802
+Iteration 5070 Validation Loss: 0.66089
+Iteration 5070 Validation Accuracy: 0.593625498008
+Iteration 5070 Validation Increase Accuracy: 0.214285714286
+Iteration 5070 Validation Decrease Accuracy: 0.89928057554
+Iteration 5100 Training Loss: 0.660864
+Iteration 5100 Training Accuracy: 0.637450199203
+Iteration 5100 Training Increase Accuracy: 0.478426395939
+Iteration 5100 Training Decrease Accuracy: 0.766769865841
+Iteration 5100 Validation Loss: 0.660121
+Iteration 5100 Validation Accuracy: 0.622841965471
+Iteration 5100 Validation Increase Accuracy: 0.455357142857
+Iteration 5100 Validation Decrease Accuracy: 0.757793764988
+Iteration 5130 Training Loss: 0.659915
+Iteration 5130 Training Accuracy: 0.636311895276
+Iteration 5130 Training Increase Accuracy: 0.432741116751
+Iteration 5130 Training Decrease Accuracy: 0.801857585139
+Iteration 5130 Validation Loss: 0.659738
+Iteration 5130 Validation Accuracy: 0.606905710491
+Iteration 5130 Validation Increase Accuracy: 0.395833333333
+Iteration 5130 Validation Decrease Accuracy: 0.776978417266
+Iteration 5160 Training Loss: 0.662838
+Iteration 5160 Training Accuracy: 0.626636311895
+Iteration 5160 Training Increase Accuracy: 0.581218274112
+Iteration 5160 Training Decrease Accuracy: 0.663570691434
+Iteration 5160 Validation Loss: 0.663691
+Iteration 5160 Validation Accuracy: 0.625498007968
+Iteration 5160 Validation Increase Accuracy: 0.589285714286
+Iteration 5160 Validation Decrease Accuracy: 0.654676258993
+Iteration 5190 Training Loss: 0.659166
+Iteration 5190 Training Accuracy: 0.61468412066
+Iteration 5190 Training Increase Accuracy: 0.314720812183
+Iteration 5190 Training Decrease Accuracy: 0.858617131063
+Iteration 5190 Validation Loss: 0.65919
+Iteration 5190 Validation Accuracy: 0.601593625498
+Iteration 5190 Validation Increase Accuracy: 0.291666666667
+Iteration 5190 Validation Decrease Accuracy: 0.851318944844
+Iteration 5220 Training Loss: 0.658483
+Iteration 5220 Training Accuracy: 0.639157655094
+Iteration 5220 Training Increase Accuracy: 0.409898477157
+Iteration 5220 Training Decrease Accuracy: 0.825593395253
+Iteration 5220 Validation Loss: 0.658849
+Iteration 5220 Validation Accuracy: 0.605577689243
+Iteration 5220 Validation Increase Accuracy: 0.348214285714
+Iteration 5220 Validation Decrease Accuracy: 0.812949640288
+Iteration 5250 Training Loss: 0.658906
+Iteration 5250 Training Accuracy: 0.647125782584
+Iteration 5250 Training Increase Accuracy: 0.506345177665
+Iteration 5250 Training Decrease Accuracy: 0.761609907121
+Iteration 5250 Validation Loss: 0.658918
+Iteration 5250 Validation Accuracy: 0.633466135458
+Iteration 5250 Validation Increase Accuracy: 0.491071428571
+Iteration 5250 Validation Decrease Accuracy: 0.748201438849
+Iteration 5280 Training Loss: 0.657934
+Iteration 5280 Training Accuracy: 0.647125782584
+Iteration 5280 Training Increase Accuracy: 0.463197969543
+Iteration 5280 Training Decrease Accuracy: 0.796697626419
+Iteration 5280 Validation Loss: 0.658677
+Iteration 5280 Validation Accuracy: 0.614873837981
+Iteration 5280 Validation Increase Accuracy: 0.41369047619
+Iteration 5280 Validation Decrease Accuracy: 0.776978417266
+Iteration 5310 Training Loss: 0.657532
+Iteration 5310 Training Accuracy: 0.647694934548
+Iteration 5310 Training Increase Accuracy: 0.450507614213
+Iteration 5310 Training Decrease Accuracy: 0.808049535604
+Iteration 5310 Validation Loss: 0.6578
+Iteration 5310 Validation Accuracy: 0.612217795485
+Iteration 5310 Validation Increase Accuracy: 0.401785714286
+Iteration 5310 Validation Decrease Accuracy: 0.781774580336
+Iteration 5340 Training Loss: 0.65879
+Iteration 5340 Training Accuracy: 0.632327831531
+Iteration 5340 Training Increase Accuracy: 0.530456852792
+Iteration 5340 Training Decrease Accuracy: 0.715170278638
+Iteration 5340 Validation Loss: 0.658684
+Iteration 5340 Validation Accuracy: 0.628154050465
+Iteration 5340 Validation Increase Accuracy: 0.517857142857
+Iteration 5340 Validation Decrease Accuracy: 0.717026378897
+Iteration 5370 Training Loss: 0.656496
+Iteration 5370 Training Accuracy: 0.634604439385
+Iteration 5370 Training Increase Accuracy: 0.378172588832
+Iteration 5370 Training Decrease Accuracy: 0.843137254902
+Iteration 5370 Validation Loss: 0.655896
+Iteration 5370 Validation Accuracy: 0.601593625498
+Iteration 5370 Validation Increase Accuracy: 0.321428571429
+Iteration 5370 Validation Decrease Accuracy: 0.827338129496
+Iteration 5400 Training Loss: 0.656577
+Iteration 5400 Training Accuracy: 0.634604439385
+Iteration 5400 Training Increase Accuracy: 0.455583756345
+Iteration 5400 Training Decrease Accuracy: 0.780185758514
+Iteration 5400 Validation Loss: 0.655149
+Iteration 5400 Validation Accuracy: 0.62416998672
+Iteration 5400 Validation Increase Accuracy: 0.443452380952
+Iteration 5400 Validation Decrease Accuracy: 0.769784172662
+Iteration 5430 Training Loss: 0.657452
+Iteration 5430 Training Accuracy: 0.631758679567
+Iteration 5430 Training Increase Accuracy: 0.48730964467
+Iteration 5430 Training Decrease Accuracy: 0.749226006192
+Iteration 5430 Validation Loss: 0.655198
+Iteration 5430 Validation Accuracy: 0.630810092961
+Iteration 5430 Validation Increase Accuracy: 0.494047619048
+Iteration 5430 Validation Decrease Accuracy: 0.741007194245
+Iteration 5460 Training Loss: 0.656724
+Iteration 5460 Training Accuracy: 0.635173591349
+Iteration 5460 Training Increase Accuracy: 0.483502538071
+Iteration 5460 Training Decrease Accuracy: 0.758513931889
+Iteration 5460 Validation Loss: 0.654853
+Iteration 5460 Validation Accuracy: 0.625498007968
+Iteration 5460 Validation Increase Accuracy: 0.485119047619
+Iteration 5460 Validation Decrease Accuracy: 0.73860911271
+Iteration 5490 Training Loss: 0.65516
+Iteration 5490 Training Accuracy: 0.639726807057
+Iteration 5490 Training Increase Accuracy: 0.374365482234
+Iteration 5490 Training Decrease Accuracy: 0.855521155831
+Iteration 5490 Validation Loss: 0.654611
+Iteration 5490 Validation Accuracy: 0.601593625498
+Iteration 5490 Validation Increase Accuracy: 0.3125
+Iteration 5490 Validation Decrease Accuracy: 0.834532374101
+Iteration 5520 Training Loss: 0.656797
+Iteration 5520 Training Accuracy: 0.63062037564
+Iteration 5520 Training Increase Accuracy: 0.545685279188
+Iteration 5520 Training Decrease Accuracy: 0.699690402477
+Iteration 5520 Validation Loss: 0.655587
+Iteration 5520 Validation Accuracy: 0.63213811421
+Iteration 5520 Validation Increase Accuracy: 0.535714285714
+Iteration 5520 Validation Decrease Accuracy: 0.709832134293
+Iteration 5550 Training Loss: 0.654544
+Iteration 5550 Training Accuracy: 0.625498007968
+Iteration 5550 Training Increase Accuracy: 0.318527918782
+Iteration 5550 Training Decrease Accuracy: 0.875128998968
+Iteration 5550 Validation Loss: 0.652913
+Iteration 5550 Validation Accuracy: 0.597609561753
+Iteration 5550 Validation Increase Accuracy: 0.264880952381
+Iteration 5550 Validation Decrease Accuracy: 0.865707434053
+Iteration 5580 Training Loss: 0.653928
+Iteration 5580 Training Accuracy: 0.63688104724
+Iteration 5580 Training Increase Accuracy: 0.422588832487
+Iteration 5580 Training Decrease Accuracy: 0.811145510836
+Iteration 5580 Validation Loss: 0.652404
+Iteration 5580 Validation Accuracy: 0.62416998672
+Iteration 5580 Validation Increase Accuracy: 0.41369047619
+Iteration 5580 Validation Decrease Accuracy: 0.79376498801
+Iteration 5610 Training Loss: 0.653346
+Iteration 5610 Training Accuracy: 0.63062037564
+Iteration 5610 Training Increase Accuracy: 0.378172588832
+Iteration 5610 Training Decrease Accuracy: 0.835913312693
+Iteration 5610 Validation Loss: 0.652583
+Iteration 5610 Validation Accuracy: 0.613545816733
+Iteration 5610 Validation Increase Accuracy: 0.35119047619
+Iteration 5610 Validation Decrease Accuracy: 0.824940047962
+Iteration 5640 Training Loss: 0.653087
+Iteration 5640 Training Accuracy: 0.642572566875
+Iteration 5640 Training Increase Accuracy: 0.406091370558
+Iteration 5640 Training Decrease Accuracy: 0.834881320949
+Iteration 5640 Validation Loss: 0.653256
+Iteration 5640 Validation Accuracy: 0.617529880478
+Iteration 5640 Validation Increase Accuracy: 0.363095238095
+Iteration 5640 Validation Decrease Accuracy: 0.822541966427
+Iteration 5670 Training Loss: 0.653488
+Iteration 5670 Training Accuracy: 0.639157655094
+Iteration 5670 Training Increase Accuracy: 0.394670050761
+Iteration 5670 Training Decrease Accuracy: 0.837977296182
+Iteration 5670 Validation Loss: 0.654694
+Iteration 5670 Validation Accuracy: 0.602921646746
+Iteration 5670 Validation Increase Accuracy: 0.342261904762
+Iteration 5670 Validation Decrease Accuracy: 0.812949640288
+Iteration 5700 Training Loss: 0.654603
+Iteration 5700 Training Accuracy: 0.632327831531
+Iteration 5700 Training Increase Accuracy: 0.55076142132
+Iteration 5700 Training Decrease Accuracy: 0.698658410733
+Iteration 5700 Validation Loss: 0.653415
+Iteration 5700 Validation Accuracy: 0.637450199203
+Iteration 5700 Validation Increase Accuracy: 0.553571428571
+Iteration 5700 Validation Decrease Accuracy: 0.705035971223
+Iteration 5730 Training Loss: 0.652427
+Iteration 5730 Training Accuracy: 0.634035287422
+Iteration 5730 Training Increase Accuracy: 0.36421319797
+Iteration 5730 Training Decrease Accuracy: 0.853457172343
+Iteration 5730 Validation Loss: 0.650348
+Iteration 5730 Validation Accuracy: 0.633466135458
+Iteration 5730 Validation Increase Accuracy: 0.366071428571
+Iteration 5730 Validation Decrease Accuracy: 0.848920863309
+Iteration 5760 Training Loss: 0.652066
+Iteration 5760 Training Accuracy: 0.638019351167
+Iteration 5760 Training Increase Accuracy: 0.395939086294
+Iteration 5760 Training Decrease Accuracy: 0.834881320949
+Iteration 5760 Validation Loss: 0.650042
+Iteration 5760 Validation Accuracy: 0.628154050465
+Iteration 5760 Validation Increase Accuracy: 0.39880952381
+Iteration 5760 Validation Decrease Accuracy: 0.812949640288
+Iteration 5790 Training Loss: 0.655291
+Iteration 5790 Training Accuracy: 0.603870233352
+Iteration 5790 Training Increase Accuracy: 0.215736040609
+Iteration 5790 Training Decrease Accuracy: 0.919504643963
+Iteration 5790 Validation Loss: 0.654434
+Iteration 5790 Validation Accuracy: 0.602921646746
+Iteration 5790 Validation Increase Accuracy: 0.190476190476
+Iteration 5790 Validation Decrease Accuracy: 0.935251798561
+Iteration 5820 Training Loss: 0.651407
+Iteration 5820 Training Accuracy: 0.635742743312
+Iteration 5820 Training Increase Accuracy: 0.47461928934
+Iteration 5820 Training Decrease Accuracy: 0.766769865841
+Iteration 5820 Validation Loss: 0.650676
+Iteration 5820 Validation Accuracy: 0.626826029216
+Iteration 5820 Validation Increase Accuracy: 0.47619047619
+Iteration 5820 Validation Decrease Accuracy: 0.748201438849
+Iteration 5850 Training Loss: 0.651045
+Iteration 5850 Training Accuracy: 0.64655663062
+Iteration 5850 Training Increase Accuracy: 0.465736040609
+Iteration 5850 Training Decrease Accuracy: 0.793601651187
+Iteration 5850 Validation Loss: 0.649406
+Iteration 5850 Validation Accuracy: 0.6401062417
+Iteration 5850 Validation Increase Accuracy: 0.467261904762
+Iteration 5850 Validation Decrease Accuracy: 0.779376498801
+Iteration 5880 Training Loss: 0.656596
+Iteration 5880 Training Accuracy: 0.64655663062
+Iteration 5880 Training Increase Accuracy: 0.667512690355
+Iteration 5880 Training Decrease Accuracy: 0.62951496388
+Iteration 5880 Validation Loss: 0.653178
+Iteration 5880 Validation Accuracy: 0.64807436919
+Iteration 5880 Validation Increase Accuracy: 0.666666666667
+Iteration 5880 Validation Decrease Accuracy: 0.63309352518
+Iteration 5910 Training Loss: 0.650969
+Iteration 5910 Training Accuracy: 0.644280022766
+Iteration 5910 Training Increase Accuracy: 0.360406091371
+Iteration 5910 Training Decrease Accuracy: 0.875128998968
+Iteration 5910 Validation Loss: 0.650477
+Iteration 5910 Validation Accuracy: 0.610889774236
+Iteration 5910 Validation Increase Accuracy: 0.315476190476
+Iteration 5910 Validation Decrease Accuracy: 0.848920863309
+Iteration 5940 Training Loss: 0.649996
+Iteration 5940 Training Accuracy: 0.640295959021
+Iteration 5940 Training Increase Accuracy: 0.404822335025
+Iteration 5940 Training Decrease Accuracy: 0.831785345717
+Iteration 5940 Validation Loss: 0.648531
+Iteration 5940 Validation Accuracy: 0.63213811421
+Iteration 5940 Validation Increase Accuracy: 0.401785714286
+Iteration 5940 Validation Decrease Accuracy: 0.817745803357
+Iteration 5970 Training Loss: 0.650623
+Iteration 5970 Training Accuracy: 0.642003414912
+Iteration 5970 Training Increase Accuracy: 0.354060913706
+Iteration 5970 Training Decrease Accuracy: 0.876160990712
+Iteration 5970 Validation Loss: 0.649915
+Iteration 5970 Validation Accuracy: 0.613545816733
+Iteration 5970 Validation Increase Accuracy: 0.318452380952
+Iteration 5970 Validation Decrease Accuracy: 0.851318944844
+Iteration 6000 Training Loss: 0.653062
+Iteration 6000 Training Accuracy: 0.63858850313
+Iteration 6000 Training Increase Accuracy: 0.611675126904
+Iteration 6000 Training Decrease Accuracy: 0.660474716202
+Iteration 6000 Validation Loss: 0.651827
+Iteration 6000 Validation Accuracy: 0.637450199203
+Iteration 6000 Validation Increase Accuracy: 0.607142857143
+Iteration 6000 Validation Decrease Accuracy: 0.661870503597
+Iteration 6030 Training Loss: 0.653616
+Iteration 6030 Training Accuracy: 0.632327831531
+Iteration 6030 Training Increase Accuracy: 0.605329949239
+Iteration 6030 Training Decrease Accuracy: 0.654282765738
+Iteration 6030 Validation Loss: 0.653801
+Iteration 6030 Validation Accuracy: 0.628154050465
+Iteration 6030 Validation Increase Accuracy: 0.604166666667
+Iteration 6030 Validation Decrease Accuracy: 0.647482014388
+Iteration 6060 Training Loss: 0.655474
+Iteration 6060 Training Accuracy: 0.598178713717
+Iteration 6060 Training Increase Accuracy: 0.196700507614
+Iteration 6060 Training Decrease Accuracy: 0.924664602683
+Iteration 6060 Validation Loss: 0.654732
+Iteration 6060 Validation Accuracy: 0.598937583001
+Iteration 6060 Validation Increase Accuracy: 0.169642857143
+Iteration 6060 Validation Decrease Accuracy: 0.9448441247
+Iteration 6090 Training Loss: 0.651062
+Iteration 6090 Training Accuracy: 0.639726807057
+Iteration 6090 Training Increase Accuracy: 0.585025380711
+Iteration 6090 Training Decrease Accuracy: 0.684210526316
+Iteration 6090 Validation Loss: 0.649283
+Iteration 6090 Validation Accuracy: 0.636122177955
+Iteration 6090 Validation Increase Accuracy: 0.580357142857
+Iteration 6090 Validation Decrease Accuracy: 0.681055155875
+Iteration 6120 Training Loss: 0.650234
+Iteration 6120 Training Accuracy: 0.632327831531
+Iteration 6120 Training Increase Accuracy: 0.314720812183
+Iteration 6120 Training Decrease Accuracy: 0.890608875129
+Iteration 6120 Validation Loss: 0.649308
+Iteration 6120 Validation Accuracy: 0.60026560425
+Iteration 6120 Validation Increase Accuracy: 0.261904761905
+Iteration 6120 Validation Decrease Accuracy: 0.872901678657
+Iteration 6150 Training Loss: 0.650526
+Iteration 6150 Training Accuracy: 0.642003414912
+Iteration 6150 Training Increase Accuracy: 0.559644670051
+Iteration 6150 Training Decrease Accuracy: 0.708978328173
+Iteration 6150 Validation Loss: 0.647566
+Iteration 6150 Validation Accuracy: 0.642762284197
+Iteration 6150 Validation Increase Accuracy: 0.556547619048
+Iteration 6150 Validation Decrease Accuracy: 0.712230215827
+Iteration 6180 Training Loss: 0.648085
+Iteration 6180 Training Accuracy: 0.628343767786
+Iteration 6180 Training Increase Accuracy: 0.357868020305
+Iteration 6180 Training Decrease Accuracy: 0.848297213622
+Iteration 6180 Validation Loss: 0.646071
+Iteration 6180 Validation Accuracy: 0.625498007968
+Iteration 6180 Validation Increase Accuracy: 0.357142857143
+Iteration 6180 Validation Decrease Accuracy: 0.841726618705
+Iteration 6210 Training Loss: 0.649222
+Iteration 6210 Training Accuracy: 0.619806488332
+Iteration 6210 Training Increase Accuracy: 0.299492385787
+Iteration 6210 Training Decrease Accuracy: 0.880288957688
+Iteration 6210 Validation Loss: 0.647366
+Iteration 6210 Validation Accuracy: 0.606905710491
+Iteration 6210 Validation Increase Accuracy: 0.267857142857
+Iteration 6210 Validation Decrease Accuracy: 0.880095923261
+Iteration 6240 Training Loss: 0.650706
+Iteration 6240 Training Accuracy: 0.612976664769
+Iteration 6240 Training Increase Accuracy: 0.277918781726
+Iteration 6240 Training Decrease Accuracy: 0.885448916409
+Iteration 6240 Validation Loss: 0.647515
+Iteration 6240 Validation Accuracy: 0.612217795485
+Iteration 6240 Validation Increase Accuracy: 0.247023809524
+Iteration 6240 Validation Decrease Accuracy: 0.906474820144
+Iteration 6270 Training Loss: 0.649536
+Iteration 6270 Training Accuracy: 0.634035287422
+Iteration 6270 Training Increase Accuracy: 0.323604060914
+Iteration 6270 Training Decrease Accuracy: 0.886480908153
+Iteration 6270 Validation Loss: 0.64926
+Iteration 6270 Validation Accuracy: 0.61620185923
+Iteration 6270 Validation Increase Accuracy: 0.28869047619
+Iteration 6270 Validation Decrease Accuracy: 0.880095923261
+Iteration 6300 Training Loss: 0.64704
+Iteration 6300 Training Accuracy: 0.641434262948
+Iteration 6300 Training Increase Accuracy: 0.439086294416
+Iteration 6300 Training Decrease Accuracy: 0.805985552116
+Iteration 6300 Validation Loss: 0.645906
+Iteration 6300 Validation Accuracy: 0.636122177955
+Iteration 6300 Validation Increase Accuracy: 0.434523809524
+Iteration 6300 Validation Decrease Accuracy: 0.798561151079
+Iteration 6330 Training Loss: 0.651455
+Iteration 6330 Training Accuracy: 0.636311895276
+Iteration 6330 Training Increase Accuracy: 0.625634517766
+Iteration 6330 Training Decrease Accuracy: 0.644994840041
+Iteration 6330 Validation Loss: 0.651032
+Iteration 6330 Validation Accuracy: 0.628154050465
+Iteration 6330 Validation Increase Accuracy: 0.616071428571
+Iteration 6330 Validation Decrease Accuracy: 0.637889688249
+Iteration 6360 Training Loss: 0.649497
+Iteration 6360 Training Accuracy: 0.647694934548
+Iteration 6360 Training Increase Accuracy: 0.540609137056
+Iteration 6360 Training Decrease Accuracy: 0.734778121775
+Iteration 6360 Validation Loss: 0.646013
+Iteration 6360 Validation Accuracy: 0.64807436919
+Iteration 6360 Validation Increase Accuracy: 0.559523809524
+Iteration 6360 Validation Decrease Accuracy: 0.719424460432
+Iteration 6390 Training Loss: 0.646983
+Iteration 6390 Training Accuracy: 0.645418326693
+Iteration 6390 Training Increase Accuracy: 0.392131979695
+Iteration 6390 Training Decrease Accuracy: 0.851393188854
+Iteration 6390 Validation Loss: 0.646431
+Iteration 6390 Validation Accuracy: 0.633466135458
+Iteration 6390 Validation Increase Accuracy: 0.377976190476
+Iteration 6390 Validation Decrease Accuracy: 0.83932853717
+Iteration 6420 Training Loss: 0.646112
+Iteration 6420 Training Accuracy: 0.64655663062
+Iteration 6420 Training Increase Accuracy: 0.451776649746
+Iteration 6420 Training Decrease Accuracy: 0.804953560372
+Iteration 6420 Validation Loss: 0.644973
+Iteration 6420 Validation Accuracy: 0.645418326693
+Iteration 6420 Validation Increase Accuracy: 0.452380952381
+Iteration 6420 Validation Decrease Accuracy: 0.800959232614
+Iteration 6450 Training Loss: 0.650023
+Iteration 6450 Training Accuracy: 0.61468412066
+Iteration 6450 Training Increase Accuracy: 0.271573604061
+Iteration 6450 Training Decrease Accuracy: 0.893704850361
+Iteration 6450 Validation Loss: 0.648086
+Iteration 6450 Validation Accuracy: 0.614873837981
+Iteration 6450 Validation Increase Accuracy: 0.244047619048
+Iteration 6450 Validation Decrease Accuracy: 0.913669064748
+Iteration 6480 Training Loss: 0.647393
+Iteration 6480 Training Accuracy: 0.651678998293
+Iteration 6480 Training Increase Accuracy: 0.521573604061
+Iteration 6480 Training Decrease Accuracy: 0.757481940144
+Iteration 6480 Validation Loss: 0.644595
+Iteration 6480 Validation Accuracy: 0.64807436919
+Iteration 6480 Validation Increase Accuracy: 0.520833333333
+Iteration 6480 Validation Decrease Accuracy: 0.750599520384
+Iteration 6510 Training Loss: 0.64774
+Iteration 6510 Training Accuracy: 0.621513944223
+Iteration 6510 Training Increase Accuracy: 0.31345177665
+Iteration 6510 Training Decrease Accuracy: 0.872033023736
+Iteration 6510 Validation Loss: 0.645696
+Iteration 6510 Validation Accuracy: 0.610889774236
+Iteration 6510 Validation Increase Accuracy: 0.270833333333
+Iteration 6510 Validation Decrease Accuracy: 0.884892086331
+Iteration 6540 Training Loss: 0.645755
+Iteration 6540 Training Accuracy: 0.650540694365
+Iteration 6540 Training Increase Accuracy: 0.494923857868
+Iteration 6540 Training Decrease Accuracy: 0.777089783282
+Iteration 6540 Validation Loss: 0.644359
+Iteration 6540 Validation Accuracy: 0.644090305445
+Iteration 6540 Validation Increase Accuracy: 0.482142857143
+Iteration 6540 Validation Decrease Accuracy: 0.774580335731
+Iteration 6570 Training Loss: 0.655801
+Iteration 6570 Training Accuracy: 0.63858850313
+Iteration 6570 Training Increase Accuracy: 0.738578680203
+Iteration 6570 Training Decrease Accuracy: 0.557275541796
+Iteration 6570 Validation Loss: 0.653483
+Iteration 6570 Validation Accuracy: 0.630810092961
+Iteration 6570 Validation Increase Accuracy: 0.714285714286
+Iteration 6570 Validation Decrease Accuracy: 0.563549160671
+Iteration 6600 Training Loss: 0.646386
+Iteration 6600 Training Accuracy: 0.636311895276
+Iteration 6600 Training Increase Accuracy: 0.541878172589
+Iteration 6600 Training Decrease Accuracy: 0.71310629515
+Iteration 6600 Validation Loss: 0.645926
+Iteration 6600 Validation Accuracy: 0.63213811421
+Iteration 6600 Validation Increase Accuracy: 0.53869047619
+Iteration 6600 Validation Decrease Accuracy: 0.707434052758
+Iteration 6630 Training Loss: 0.646579
+Iteration 6630 Training Accuracy: 0.653386454183
+Iteration 6630 Training Increase Accuracy: 0.428934010152
+Iteration 6630 Training Decrease Accuracy: 0.835913312693
+Iteration 6630 Validation Loss: 0.648909
+Iteration 6630 Validation Accuracy: 0.62416998672
+Iteration 6630 Validation Increase Accuracy: 0.386904761905
+Iteration 6630 Validation Decrease Accuracy: 0.815347721823
+Iteration 6660 Training Loss: 0.645147
+Iteration 6660 Training Accuracy: 0.633466135458
+Iteration 6660 Training Increase Accuracy: 0.467005076142
+Iteration 6660 Training Decrease Accuracy: 0.768833849329
+Iteration 6660 Validation Loss: 0.64655
+Iteration 6660 Validation Accuracy: 0.625498007968
+Iteration 6660 Validation Increase Accuracy: 0.446428571429
+Iteration 6660 Validation Decrease Accuracy: 0.769784172662
+Iteration 6690 Training Loss: 0.646403
+Iteration 6690 Training Accuracy: 0.630051223677
+Iteration 6690 Training Increase Accuracy: 0.374365482234
+Iteration 6690 Training Decrease Accuracy: 0.837977296182
+Iteration 6690 Validation Loss: 0.643386
+Iteration 6690 Validation Accuracy: 0.645418326693
+Iteration 6690 Validation Increase Accuracy: 0.383928571429
+Iteration 6690 Validation Decrease Accuracy: 0.856115107914
+Iteration 6720 Training Loss: 0.645689
+Iteration 6720 Training Accuracy: 0.632327831531
+Iteration 6720 Training Increase Accuracy: 0.375634517766
+Iteration 6720 Training Decrease Accuracy: 0.841073271414
+Iteration 6720 Validation Loss: 0.643177
+Iteration 6720 Validation Accuracy: 0.652058432935
+Iteration 6720 Validation Increase Accuracy: 0.392857142857
+Iteration 6720 Validation Decrease Accuracy: 0.860911270983
+Iteration 6750 Training Loss: 0.64382
+Iteration 6750 Training Accuracy: 0.645418326693
+Iteration 6750 Training Increase Accuracy: 0.434010152284
+Iteration 6750 Training Decrease Accuracy: 0.8173374613
+Iteration 6750 Validation Loss: 0.642828
+Iteration 6750 Validation Accuracy: 0.637450199203
+Iteration 6750 Validation Increase Accuracy: 0.416666666667
+Iteration 6750 Validation Decrease Accuracy: 0.815347721823
+Iteration 6780 Training Loss: 0.644152
+Iteration 6780 Training Accuracy: 0.639726807057
+Iteration 6780 Training Increase Accuracy: 0.384517766497
+Iteration 6780 Training Decrease Accuracy: 0.847265221878
+Iteration 6780 Validation Loss: 0.643924
+Iteration 6780 Validation Accuracy: 0.629482071713
+Iteration 6780 Validation Increase Accuracy: 0.372023809524
+Iteration 6780 Validation Decrease Accuracy: 0.836930455635
+Iteration 6810 Training Loss: 0.648588
+Iteration 6810 Training Accuracy: 0.628343767786
+Iteration 6810 Training Increase Accuracy: 0.30076142132
+Iteration 6810 Training Decrease Accuracy: 0.894736842105
+Iteration 6810 Validation Loss: 0.650056
+Iteration 6810 Validation Accuracy: 0.610889774236
+Iteration 6810 Validation Increase Accuracy: 0.264880952381
+Iteration 6810 Validation Decrease Accuracy: 0.8896882494
+Iteration 6840 Training Loss: 0.650939
+Iteration 6840 Training Accuracy: 0.634035287422
+Iteration 6840 Training Increase Accuracy: 0.303299492386
+Iteration 6840 Training Decrease Accuracy: 0.902992776058
+Iteration 6840 Validation Loss: 0.654097
+Iteration 6840 Validation Accuracy: 0.612217795485
+Iteration 6840 Validation Increase Accuracy: 0.270833333333
+Iteration 6840 Validation Decrease Accuracy: 0.887290167866
+Iteration 6870 Training Loss: 0.647908
+Iteration 6870 Training Accuracy: 0.618099032442
+Iteration 6870 Training Increase Accuracy: 0.279187817259
+Iteration 6870 Training Decrease Accuracy: 0.893704850361
+Iteration 6870 Validation Loss: 0.648618
+Iteration 6870 Validation Accuracy: 0.60823373174
+Iteration 6870 Validation Increase Accuracy: 0.25
+Iteration 6870 Validation Decrease Accuracy: 0.896882494005
+Iteration 6900 Training Loss: 0.643172
+Iteration 6900 Training Accuracy: 0.659647125783
+Iteration 6900 Training Increase Accuracy: 0.506345177665
+Iteration 6900 Training Decrease Accuracy: 0.78431372549
+Iteration 6900 Validation Loss: 0.642244
+Iteration 6900 Validation Accuracy: 0.657370517928
+Iteration 6900 Validation Increase Accuracy: 0.491071428571
+Iteration 6900 Validation Decrease Accuracy: 0.791366906475
+Iteration 6930 Training Loss: 0.642729
+Iteration 6930 Training Accuracy: 0.653386454183
+Iteration 6930 Training Increase Accuracy: 0.431472081218
+Iteration 6930 Training Decrease Accuracy: 0.833849329205
+Iteration 6930 Validation Loss: 0.64383
+Iteration 6930 Validation Accuracy: 0.63213811421
+Iteration 6930 Validation Increase Accuracy: 0.392857142857
+Iteration 6930 Validation Decrease Accuracy: 0.824940047962
+Iteration 6960 Training Loss: 0.643097
+Iteration 6960 Training Accuracy: 0.64484917473
+Iteration 6960 Training Increase Accuracy: 0.480964467005
+Iteration 6960 Training Decrease Accuracy: 0.778121775026
+Iteration 6960 Validation Loss: 0.645364
+Iteration 6960 Validation Accuracy: 0.625498007968
+Iteration 6960 Validation Increase Accuracy: 0.455357142857
+Iteration 6960 Validation Decrease Accuracy: 0.762589928058
+Iteration 6990 Training Loss: 0.643325
+Iteration 6990 Training Accuracy: 0.635173591349
+Iteration 6990 Training Increase Accuracy: 0.36421319797
+Iteration 6990 Training Decrease Accuracy: 0.855521155831
+Iteration 6990 Validation Loss: 0.641692
+Iteration 6990 Validation Accuracy: 0.6401062417
+Iteration 6990 Validation Increase Accuracy: 0.360119047619
+Iteration 6990 Validation Decrease Accuracy: 0.865707434053
+Iteration 7020 Training Loss: 0.641606
+Iteration 7020 Training Accuracy: 0.655663062038
+Iteration 7020 Training Increase Accuracy: 0.48730964467
+Iteration 7020 Training Decrease Accuracy: 0.792569659443
+Iteration 7020 Validation Loss: 0.641671
+Iteration 7020 Validation Accuracy: 0.65604249668
+Iteration 7020 Validation Increase Accuracy: 0.488095238095
+Iteration 7020 Validation Decrease Accuracy: 0.791366906475
+Iteration 7050 Training Loss: 0.642112
+Iteration 7050 Training Accuracy: 0.64655663062
+Iteration 7050 Training Increase Accuracy: 0.44923857868
+Iteration 7050 Training Decrease Accuracy: 0.80701754386
+Iteration 7050 Validation Loss: 0.640244
+Iteration 7050 Validation Accuracy: 0.645418326693
+Iteration 7050 Validation Increase Accuracy: 0.446428571429
+Iteration 7050 Validation Decrease Accuracy: 0.805755395683
+Iteration 7080 Training Loss: 0.641962
+Iteration 7080 Training Accuracy: 0.649402390438
+Iteration 7080 Training Increase Accuracy: 0.413705583756
+Iteration 7080 Training Decrease Accuracy: 0.841073271414
+Iteration 7080 Validation Loss: 0.641776
+Iteration 7080 Validation Accuracy: 0.645418326693
+Iteration 7080 Validation Increase Accuracy: 0.410714285714
+Iteration 7080 Validation Decrease Accuracy: 0.834532374101
+Iteration 7110 Training Loss: 0.641938
+Iteration 7110 Training Accuracy: 0.651678998293
+Iteration 7110 Training Increase Accuracy: 0.472081218274
+Iteration 7110 Training Decrease Accuracy: 0.797729618163
+Iteration 7110 Validation Loss: 0.644299
+Iteration 7110 Validation Accuracy: 0.636122177955
+Iteration 7110 Validation Increase Accuracy: 0.452380952381
+Iteration 7110 Validation Decrease Accuracy: 0.784172661871
+Iteration 7140 Training Loss: 0.641285
+Iteration 7140 Training Accuracy: 0.663062037564
+Iteration 7140 Training Increase Accuracy: 0.463197969543
+Iteration 7140 Training Decrease Accuracy: 0.825593395253
+Iteration 7140 Validation Loss: 0.641516
+Iteration 7140 Validation Accuracy: 0.653386454183
+Iteration 7140 Validation Increase Accuracy: 0.449404761905
+Iteration 7140 Validation Decrease Accuracy: 0.817745803357
+Iteration 7170 Training Loss: 0.642954
+Iteration 7170 Training Accuracy: 0.65281730222
+Iteration 7170 Training Increase Accuracy: 0.579949238579
+Iteration 7170 Training Decrease Accuracy: 0.712074303406
+Iteration 7170 Validation Loss: 0.642186
+Iteration 7170 Validation Accuracy: 0.662682602922
+Iteration 7170 Validation Increase Accuracy: 0.580357142857
+Iteration 7170 Validation Decrease Accuracy: 0.729016786571
+Iteration 7200 Training Loss: 0.644024
+Iteration 7200 Training Accuracy: 0.62891291975
+Iteration 7200 Training Increase Accuracy: 0.323604060914
+Iteration 7200 Training Decrease Accuracy: 0.877192982456
+Iteration 7200 Validation Loss: 0.644531
+Iteration 7200 Validation Accuracy: 0.626826029216
+Iteration 7200 Validation Increase Accuracy: 0.306547619048
+Iteration 7200 Validation Decrease Accuracy: 0.884892086331
+Iteration 7230 Training Loss: 0.640714
+Iteration 7230 Training Accuracy: 0.659077973819
+Iteration 7230 Training Increase Accuracy: 0.494923857868
+Iteration 7230 Training Decrease Accuracy: 0.792569659443
+Iteration 7230 Validation Loss: 0.640085
+Iteration 7230 Validation Accuracy: 0.650730411687
+Iteration 7230 Validation Increase Accuracy: 0.47619047619
+Iteration 7230 Validation Decrease Accuracy: 0.791366906475
+Iteration 7260 Training Loss: 0.641872
+Iteration 7260 Training Accuracy: 0.656232214001
+Iteration 7260 Training Increase Accuracy: 0.548223350254
+Iteration 7260 Training Decrease Accuracy: 0.744066047472
+Iteration 7260 Validation Loss: 0.641678
+Iteration 7260 Validation Accuracy: 0.665338645418
+Iteration 7260 Validation Increase Accuracy: 0.547619047619
+Iteration 7260 Validation Decrease Accuracy: 0.760191846523
+Iteration 7290 Training Loss: 0.643719
+Iteration 7290 Training Accuracy: 0.638019351167
+Iteration 7290 Training Increase Accuracy: 0.60152284264
+Iteration 7290 Training Decrease Accuracy: 0.667698658411
+Iteration 7290 Validation Loss: 0.64411
+Iteration 7290 Validation Accuracy: 0.653386454183
+Iteration 7290 Validation Increase Accuracy: 0.613095238095
+Iteration 7290 Validation Decrease Accuracy: 0.685851318945
+Iteration 7320 Training Loss: 0.640965
+Iteration 7320 Training Accuracy: 0.651678998293
+Iteration 7320 Training Increase Accuracy: 0.417512690355
+Iteration 7320 Training Decrease Accuracy: 0.842105263158
+Iteration 7320 Validation Loss: 0.643513
+Iteration 7320 Validation Accuracy: 0.62416998672
+Iteration 7320 Validation Increase Accuracy: 0.366071428571
+Iteration 7320 Validation Decrease Accuracy: 0.832134292566
+Iteration 7350 Training Loss: 0.639464
+Iteration 7350 Training Accuracy: 0.666476949345
+Iteration 7350 Training Increase Accuracy: 0.496192893401
+Iteration 7350 Training Decrease Accuracy: 0.804953560372
+Iteration 7350 Validation Loss: 0.640733
+Iteration 7350 Validation Accuracy: 0.654714475432
+Iteration 7350 Validation Increase Accuracy: 0.467261904762
+Iteration 7350 Validation Decrease Accuracy: 0.805755395683
+Iteration 7380 Training Loss: 0.640539
+Iteration 7380 Training Accuracy: 0.655663062038
+Iteration 7380 Training Increase Accuracy: 0.420050761421
+Iteration 7380 Training Decrease Accuracy: 0.847265221878
+Iteration 7380 Validation Loss: 0.643456
+Iteration 7380 Validation Accuracy: 0.642762284197
+Iteration 7380 Validation Increase Accuracy: 0.389880952381
+Iteration 7380 Validation Decrease Accuracy: 0.846522781775
+Iteration 7410 Training Loss: 0.639748
+Iteration 7410 Training Accuracy: 0.657370517928
+Iteration 7410 Training Increase Accuracy: 0.507614213198
+Iteration 7410 Training Decrease Accuracy: 0.77915376677
+Iteration 7410 Validation Loss: 0.642218
+Iteration 7410 Validation Accuracy: 0.649402390438
+Iteration 7410 Validation Increase Accuracy: 0.494047619048
+Iteration 7410 Validation Decrease Accuracy: 0.774580335731
+Iteration 7440 Training Loss: 0.64003
+Iteration 7440 Training Accuracy: 0.657370517928
+Iteration 7440 Training Increase Accuracy: 0.543147208122
+Iteration 7440 Training Decrease Accuracy: 0.750257997936
+Iteration 7440 Validation Loss: 0.643705
+Iteration 7440 Validation Accuracy: 0.660026560425
+Iteration 7440 Validation Increase Accuracy: 0.541666666667
+Iteration 7440 Validation Decrease Accuracy: 0.755395683453
+Iteration 7470 Training Loss: 0.639188
+Iteration 7470 Training Accuracy: 0.665907797382
+Iteration 7470 Training Increase Accuracy: 0.491116751269
+Iteration 7470 Training Decrease Accuracy: 0.808049535604
+Iteration 7470 Validation Loss: 0.641668
+Iteration 7470 Validation Accuracy: 0.66401062417
+Iteration 7470 Validation Increase Accuracy: 0.473214285714
+Iteration 7470 Validation Decrease Accuracy: 0.817745803357
+Iteration 7500 Training Loss: 0.640659
+Iteration 7500 Training Accuracy: 0.65452475811
+Iteration 7500 Training Increase Accuracy: 0.569796954315
+Iteration 7500 Training Decrease Accuracy: 0.72342621259
+Iteration 7500 Validation Loss: 0.641636
+Iteration 7500 Validation Accuracy: 0.661354581673
+Iteration 7500 Validation Increase Accuracy: 0.556547619048
+Iteration 7500 Validation Decrease Accuracy: 0.745803357314
+Iteration 7530 Training Loss: 0.642265
+Iteration 7530 Training Accuracy: 0.65452475811
+Iteration 7530 Training Increase Accuracy: 0.414974619289
+Iteration 7530 Training Decrease Accuracy: 0.849329205366
+Iteration 7530 Validation Loss: 0.64772
+Iteration 7530 Validation Accuracy: 0.61620185923
+Iteration 7530 Validation Increase Accuracy: 0.342261904762
+Iteration 7530 Validation Decrease Accuracy: 0.836930455635
+Iteration 7560 Training Loss: 0.63859
+Iteration 7560 Training Accuracy: 0.657939669892
+Iteration 7560 Training Increase Accuracy: 0.473350253807
+Iteration 7560 Training Decrease Accuracy: 0.808049535604
+Iteration 7560 Validation Loss: 0.642219
+Iteration 7560 Validation Accuracy: 0.63213811421
+Iteration 7560 Validation Increase Accuracy: 0.431547619048
+Iteration 7560 Validation Decrease Accuracy: 0.79376498801
+Iteration 7590 Training Loss: 0.638715
+Iteration 7590 Training Accuracy: 0.65281730222
+Iteration 7590 Training Increase Accuracy: 0.467005076142
+Iteration 7590 Training Decrease Accuracy: 0.803921568627
+Iteration 7590 Validation Loss: 0.642507
+Iteration 7590 Validation Accuracy: 0.630810092961
+Iteration 7590 Validation Increase Accuracy: 0.434523809524
+Iteration 7590 Validation Decrease Accuracy: 0.78896882494
+Iteration 7620 Training Loss: 0.642703
+Iteration 7620 Training Accuracy: 0.647694934548
+Iteration 7620 Training Increase Accuracy: 0.631979695431
+Iteration 7620 Training Decrease Accuracy: 0.660474716202
+Iteration 7620 Validation Loss: 0.641578
+Iteration 7620 Validation Accuracy: 0.6401062417
+Iteration 7620 Validation Increase Accuracy: 0.607142857143
+Iteration 7620 Validation Decrease Accuracy: 0.666666666667
+Iteration 7650 Training Loss: 0.638615
+Iteration 7650 Training Accuracy: 0.653386454183
+Iteration 7650 Training Increase Accuracy: 0.435279187817
+Iteration 7650 Training Decrease Accuracy: 0.830753353973
+Iteration 7650 Validation Loss: 0.639604
+Iteration 7650 Validation Accuracy: 0.64807436919
+Iteration 7650 Validation Increase Accuracy: 0.425595238095
+Iteration 7650 Validation Decrease Accuracy: 0.827338129496
+Iteration 7680 Training Loss: 0.64075
+Iteration 7680 Training Accuracy: 0.636311895276
+Iteration 7680 Training Increase Accuracy: 0.355329949239
+Iteration 7680 Training Decrease Accuracy: 0.864809081527
+Iteration 7680 Validation Loss: 0.642725
+Iteration 7680 Validation Accuracy: 0.63213811421
+Iteration 7680 Validation Increase Accuracy: 0.333333333333
+Iteration 7680 Validation Decrease Accuracy: 0.872901678657
+Iteration 7710 Training Loss: 0.65322
+Iteration 7710 Training Accuracy: 0.640865110985
+Iteration 7710 Training Increase Accuracy: 0.779187817259
+Iteration 7710 Training Decrease Accuracy: 0.528379772962
+Iteration 7710 Validation Loss: 0.654476
+Iteration 7710 Validation Accuracy: 0.642762284197
+Iteration 7710 Validation Increase Accuracy: 0.767857142857
+Iteration 7710 Validation Decrease Accuracy: 0.541966426859
+Iteration 7740 Training Loss: 0.641118
+Iteration 7740 Training Accuracy: 0.651109846329
+Iteration 7740 Training Increase Accuracy: 0.621827411168
+Iteration 7740 Training Decrease Accuracy: 0.674922600619
+Iteration 7740 Validation Loss: 0.641219
+Iteration 7740 Validation Accuracy: 0.64807436919
+Iteration 7740 Validation Increase Accuracy: 0.607142857143
+Iteration 7740 Validation Decrease Accuracy: 0.681055155875
+Iteration 7770 Training Loss: 0.642333
+Iteration 7770 Training Accuracy: 0.64484917473
+Iteration 7770 Training Increase Accuracy: 0.654822335025
+Iteration 7770 Training Decrease Accuracy: 0.636738906089
+Iteration 7770 Validation Loss: 0.643692
+Iteration 7770 Validation Accuracy: 0.646746347942
+Iteration 7770 Validation Increase Accuracy: 0.64880952381
+Iteration 7770 Validation Decrease Accuracy: 0.645083932854
+Iteration 7800 Training Loss: 0.639777
+Iteration 7800 Training Accuracy: 0.65452475811
+Iteration 7800 Training Increase Accuracy: 0.407360406091
+Iteration 7800 Training Decrease Accuracy: 0.855521155831
+Iteration 7800 Validation Loss: 0.644232
+Iteration 7800 Validation Accuracy: 0.634794156707
+Iteration 7800 Validation Increase Accuracy: 0.366071428571
+Iteration 7800 Validation Decrease Accuracy: 0.851318944844
+Iteration 7830 Training Loss: 0.638213
+Iteration 7830 Training Accuracy: 0.651109846329
+Iteration 7830 Training Increase Accuracy: 0.426395939086
+Iteration 7830 Training Decrease Accuracy: 0.833849329205
+Iteration 7830 Validation Loss: 0.643052
+Iteration 7830 Validation Accuracy: 0.636122177955
+Iteration 7830 Validation Increase Accuracy: 0.392857142857
+Iteration 7830 Validation Decrease Accuracy: 0.832134292566
+Iteration 7860 Training Loss: 0.638766
+Iteration 7860 Training Accuracy: 0.656232214001
+Iteration 7860 Training Increase Accuracy: 0.519035532995
+Iteration 7860 Training Decrease Accuracy: 0.767801857585
+Iteration 7860 Validation Loss: 0.639401
+Iteration 7860 Validation Accuracy: 0.650730411687
+Iteration 7860 Validation Increase Accuracy: 0.497023809524
+Iteration 7860 Validation Decrease Accuracy: 0.774580335731
+Iteration 7890 Training Loss: 0.640352
+Iteration 7890 Training Accuracy: 0.643141718839
+Iteration 7890 Training Increase Accuracy: 0.626903553299
+Iteration 7890 Training Decrease Accuracy: 0.656346749226
+Iteration 7890 Validation Loss: 0.642109
+Iteration 7890 Validation Accuracy: 0.6401062417
+Iteration 7890 Validation Increase Accuracy: 0.619047619048
+Iteration 7890 Validation Decrease Accuracy: 0.657074340528
+Iteration 7920 Training Loss: 0.639195
+Iteration 7920 Training Accuracy: 0.64484917473
+Iteration 7920 Training Increase Accuracy: 0.607868020305
+Iteration 7920 Training Decrease Accuracy: 0.674922600619
+Iteration 7920 Validation Loss: 0.642286
+Iteration 7920 Validation Accuracy: 0.661354581673
+Iteration 7920 Validation Increase Accuracy: 0.622023809524
+Iteration 7920 Validation Decrease Accuracy: 0.693045563549
+Iteration 7950 Training Loss: 0.639601
+Iteration 7950 Training Accuracy: 0.642572566875
+Iteration 7950 Training Increase Accuracy: 0.366751269036
+Iteration 7950 Training Decrease Accuracy: 0.866873065015
+Iteration 7950 Validation Loss: 0.643232
+Iteration 7950 Validation Accuracy: 0.628154050465
+Iteration 7950 Validation Increase Accuracy: 0.33630952381
+Iteration 7950 Validation Decrease Accuracy: 0.863309352518
+Iteration 7980 Training Loss: 0.64178
+Iteration 7980 Training Accuracy: 0.645987478657
+Iteration 7980 Training Increase Accuracy: 0.383248730964
+Iteration 7980 Training Decrease Accuracy: 0.859649122807
+Iteration 7980 Validation Loss: 0.647281
+Iteration 7980 Validation Accuracy: 0.620185922975
+Iteration 7980 Validation Increase Accuracy: 0.327380952381
+Iteration 7980 Validation Decrease Accuracy: 0.856115107914
+Iteration 8010 Training Loss: 0.636333
+Iteration 8010 Training Accuracy: 0.65281730222
+Iteration 8010 Training Increase Accuracy: 0.51269035533
+Iteration 8010 Training Decrease Accuracy: 0.766769865841
+Iteration 8010 Validation Loss: 0.637704
+Iteration 8010 Validation Accuracy: 0.662682602922
+Iteration 8010 Validation Increase Accuracy: 0.5
+Iteration 8010 Validation Decrease Accuracy: 0.79376498801
+Iteration 8040 Training Loss: 0.642449
+Iteration 8040 Training Accuracy: 0.632327831531
+Iteration 8040 Training Increase Accuracy: 0.63578680203
+Iteration 8040 Training Decrease Accuracy: 0.62951496388
+Iteration 8040 Validation Loss: 0.64613
+Iteration 8040 Validation Accuracy: 0.642762284197
+Iteration 8040 Validation Increase Accuracy: 0.651785714286
+Iteration 8040 Validation Decrease Accuracy: 0.635491606715
+Iteration 8070 Training Loss: 0.636301
+Iteration 8070 Training Accuracy: 0.664769493455
+Iteration 8070 Training Increase Accuracy: 0.492385786802
+Iteration 8070 Training Decrease Accuracy: 0.804953560372
+Iteration 8070 Validation Loss: 0.638729
+Iteration 8070 Validation Accuracy: 0.666666666667
+Iteration 8070 Validation Increase Accuracy: 0.488095238095
+Iteration 8070 Validation Decrease Accuracy: 0.810551558753
+Iteration 8100 Training Loss: 0.638145
+Iteration 8100 Training Accuracy: 0.650540694365
+Iteration 8100 Training Increase Accuracy: 0.409898477157
+Iteration 8100 Training Decrease Accuracy: 0.846233230134
+Iteration 8100 Validation Loss: 0.643201
+Iteration 8100 Validation Accuracy: 0.63213811421
+Iteration 8100 Validation Increase Accuracy: 0.366071428571
+Iteration 8100 Validation Decrease Accuracy: 0.846522781775
+Iteration 8130 Training Loss: 0.63693
+Iteration 8130 Training Accuracy: 0.657370517928
+Iteration 8130 Training Increase Accuracy: 0.491116751269
+Iteration 8130 Training Decrease Accuracy: 0.792569659443
+Iteration 8130 Validation Loss: 0.6425
+Iteration 8130 Validation Accuracy: 0.64807436919
+Iteration 8130 Validation Increase Accuracy: 0.473214285714
+Iteration 8130 Validation Decrease Accuracy: 0.78896882494
+Iteration 8160 Training Loss: 0.636872
+Iteration 8160 Training Accuracy: 0.651109846329
+Iteration 8160 Training Increase Accuracy: 0.416243654822
+Iteration 8160 Training Decrease Accuracy: 0.842105263158
+Iteration 8160 Validation Loss: 0.638621
+Iteration 8160 Validation Accuracy: 0.654714475432
+Iteration 8160 Validation Increase Accuracy: 0.416666666667
+Iteration 8160 Validation Decrease Accuracy: 0.846522781775
+Iteration 8190 Training Loss: 0.635809
+Iteration 8190 Training Accuracy: 0.656232214001
+Iteration 8190 Training Increase Accuracy: 0.540609137056
+Iteration 8190 Training Decrease Accuracy: 0.750257997936
+Iteration 8190 Validation Loss: 0.639442
+Iteration 8190 Validation Accuracy: 0.658698539177
+Iteration 8190 Validation Increase Accuracy: 0.535714285714
+Iteration 8190 Validation Decrease Accuracy: 0.757793764988
+Iteration 8220 Training Loss: 0.635805
+Iteration 8220 Training Accuracy: 0.66078542971
+Iteration 8220 Training Increase Accuracy: 0.546954314721
+Iteration 8220 Training Decrease Accuracy: 0.753353973168
+Iteration 8220 Validation Loss: 0.636891
+Iteration 8220 Validation Accuracy: 0.662682602922
+Iteration 8220 Validation Increase Accuracy: 0.532738095238
+Iteration 8220 Validation Decrease Accuracy: 0.767386091127
+Iteration 8250 Training Loss: 0.634753
+Iteration 8250 Training Accuracy: 0.660216277746
+Iteration 8250 Training Increase Accuracy: 0.494923857868
+Iteration 8250 Training Decrease Accuracy: 0.794633642931
+Iteration 8250 Validation Loss: 0.636755
+Iteration 8250 Validation Accuracy: 0.66401062417
+Iteration 8250 Validation Increase Accuracy: 0.482142857143
+Iteration 8250 Validation Decrease Accuracy: 0.810551558753
+Iteration 8280 Training Loss: 0.635055
+Iteration 8280 Training Accuracy: 0.656232214001
+Iteration 8280 Training Increase Accuracy: 0.494923857868
+Iteration 8280 Training Decrease Accuracy: 0.787409700722
+Iteration 8280 Validation Loss: 0.635958
+Iteration 8280 Validation Accuracy: 0.660026560425
+Iteration 8280 Validation Increase Accuracy: 0.482142857143
+Iteration 8280 Validation Decrease Accuracy: 0.803357314149
+Iteration 8310 Training Loss: 0.635211
+Iteration 8310 Training Accuracy: 0.656232214001
+Iteration 8310 Training Increase Accuracy: 0.491116751269
+Iteration 8310 Training Decrease Accuracy: 0.790505675955
+Iteration 8310 Validation Loss: 0.638673
+Iteration 8310 Validation Accuracy: 0.64807436919
+Iteration 8310 Validation Increase Accuracy: 0.467261904762
+Iteration 8310 Validation Decrease Accuracy: 0.79376498801
+Iteration 8340 Training Loss: 0.634498
+Iteration 8340 Training Accuracy: 0.657939669892
+Iteration 8340 Training Increase Accuracy: 0.532994923858
+Iteration 8340 Training Decrease Accuracy: 0.759545923633
+Iteration 8340 Validation Loss: 0.637202
+Iteration 8340 Validation Accuracy: 0.653386454183
+Iteration 8340 Validation Increase Accuracy: 0.511904761905
+Iteration 8340 Validation Decrease Accuracy: 0.767386091127
+Iteration 8370 Training Loss: 0.63396
+Iteration 8370 Training Accuracy: 0.6687535572
+Iteration 8370 Training Increase Accuracy: 0.51269035533
+Iteration 8370 Training Decrease Accuracy: 0.795665634675
+Iteration 8370 Validation Loss: 0.638145
+Iteration 8370 Validation Accuracy: 0.662682602922
+Iteration 8370 Validation Increase Accuracy: 0.505952380952
+Iteration 8370 Validation Decrease Accuracy: 0.78896882494
+Iteration 8400 Training Loss: 0.635412
+Iteration 8400 Training Accuracy: 0.661923733637
+Iteration 8400 Training Increase Accuracy: 0.55076142132
+Iteration 8400 Training Decrease Accuracy: 0.752321981424
+Iteration 8400 Validation Loss: 0.637206
+Iteration 8400 Validation Accuracy: 0.657370517928
+Iteration 8400 Validation Increase Accuracy: 0.535714285714
+Iteration 8400 Validation Decrease Accuracy: 0.755395683453
+Iteration 8430 Training Loss: 0.634086
+Iteration 8430 Training Accuracy: 0.657939669892
+Iteration 8430 Training Increase Accuracy: 0.501269035533
+Iteration 8430 Training Decrease Accuracy: 0.785345717234
+Iteration 8430 Validation Loss: 0.635957
+Iteration 8430 Validation Accuracy: 0.661354581673
+Iteration 8430 Validation Increase Accuracy: 0.485119047619
+Iteration 8430 Validation Decrease Accuracy: 0.803357314149
+Iteration 8460 Training Loss: 0.636655
+Iteration 8460 Training Accuracy: 0.647694934548
+Iteration 8460 Training Increase Accuracy: 0.39847715736
+Iteration 8460 Training Decrease Accuracy: 0.85036119711
+Iteration 8460 Validation Loss: 0.640789
+Iteration 8460 Validation Accuracy: 0.634794156707
+Iteration 8460 Validation Increase Accuracy: 0.375
+Iteration 8460 Validation Decrease Accuracy: 0.84412470024
+Iteration 8490 Training Loss: 0.634095
+Iteration 8490 Training Accuracy: 0.6624928856
+Iteration 8490 Training Increase Accuracy: 0.565989847716
+Iteration 8490 Training Decrease Accuracy: 0.740970072239
+Iteration 8490 Validation Loss: 0.637905
+Iteration 8490 Validation Accuracy: 0.65604249668
+Iteration 8490 Validation Increase Accuracy: 0.547619047619
+Iteration 8490 Validation Decrease Accuracy: 0.743405275779
+Iteration 8520 Training Loss: 0.633557
+Iteration 8520 Training Accuracy: 0.661923733637
+Iteration 8520 Training Increase Accuracy: 0.484771573604
+Iteration 8520 Training Decrease Accuracy: 0.805985552116
+Iteration 8520 Validation Loss: 0.637045
+Iteration 8520 Validation Accuracy: 0.64807436919
+Iteration 8520 Validation Increase Accuracy: 0.458333333333
+Iteration 8520 Validation Decrease Accuracy: 0.800959232614
+Iteration 8550 Training Loss: 0.634844
+Iteration 8550 Training Accuracy: 0.659647125783
+Iteration 8550 Training Increase Accuracy: 0.441624365482
+Iteration 8550 Training Decrease Accuracy: 0.836945304438
+Iteration 8550 Validation Loss: 0.641473
+Iteration 8550 Validation Accuracy: 0.6401062417
+Iteration 8550 Validation Increase Accuracy: 0.410714285714
+Iteration 8550 Validation Decrease Accuracy: 0.824940047962
+Iteration 8580 Training Loss: 0.633467
+Iteration 8580 Training Accuracy: 0.655093910074
+Iteration 8580 Training Increase Accuracy: 0.453045685279
+Iteration 8580 Training Decrease Accuracy: 0.819401444788
+Iteration 8580 Validation Loss: 0.637214
+Iteration 8580 Validation Accuracy: 0.65604249668
+Iteration 8580 Validation Increase Accuracy: 0.455357142857
+Iteration 8580 Validation Decrease Accuracy: 0.817745803357
+Iteration 8610 Training Loss: 0.632789
+Iteration 8610 Training Accuracy: 0.657939669892
+Iteration 8610 Training Increase Accuracy: 0.460659898477
+Iteration 8610 Training Decrease Accuracy: 0.818369453044
+Iteration 8610 Validation Loss: 0.637058
+Iteration 8610 Validation Accuracy: 0.653386454183
+Iteration 8610 Validation Increase Accuracy: 0.449404761905
+Iteration 8610 Validation Decrease Accuracy: 0.817745803357
+Iteration 8640 Training Loss: 0.632332
+Iteration 8640 Training Accuracy: 0.671030165054
+Iteration 8640 Training Increase Accuracy: 0.494923857868
+Iteration 8640 Training Decrease Accuracy: 0.814241486068
+Iteration 8640 Validation Loss: 0.637704
+Iteration 8640 Validation Accuracy: 0.662682602922
+Iteration 8640 Validation Increase Accuracy: 0.482142857143
+Iteration 8640 Validation Decrease Accuracy: 0.808153477218
+Iteration 8670 Training Loss: 0.633424
+Iteration 8670 Training Accuracy: 0.658508821855
+Iteration 8670 Training Increase Accuracy: 0.479695431472
+Iteration 8670 Training Decrease Accuracy: 0.803921568627
+Iteration 8670 Validation Loss: 0.636608
+Iteration 8670 Validation Accuracy: 0.645418326693
+Iteration 8670 Validation Increase Accuracy: 0.458333333333
+Iteration 8670 Validation Decrease Accuracy: 0.796163069544
+Iteration 8700 Training Loss: 0.632818
+Iteration 8700 Training Accuracy: 0.673875924872
+Iteration 8700 Training Increase Accuracy: 0.515228426396
+Iteration 8700 Training Decrease Accuracy: 0.802889576883
+Iteration 8700 Validation Loss: 0.63709
+Iteration 8700 Validation Accuracy: 0.65604249668
+Iteration 8700 Validation Increase Accuracy: 0.482142857143
+Iteration 8700 Validation Decrease Accuracy: 0.796163069544
+Iteration 8730 Training Loss: 0.639833
+Iteration 8730 Training Accuracy: 0.632896983495
+Iteration 8730 Training Increase Accuracy: 0.333756345178
+Iteration 8730 Training Decrease Accuracy: 0.876160990712
+Iteration 8730 Validation Loss: 0.645922
+Iteration 8730 Validation Accuracy: 0.628154050465
+Iteration 8730 Validation Increase Accuracy: 0.324404761905
+Iteration 8730 Validation Decrease Accuracy: 0.872901678657
+Iteration 8760 Training Loss: 0.633684
+Iteration 8760 Training Accuracy: 0.649971542402
+Iteration 8760 Training Increase Accuracy: 0.427664974619
+Iteration 8760 Training Decrease Accuracy: 0.830753353973
+Iteration 8760 Validation Loss: 0.638707
+Iteration 8760 Validation Accuracy: 0.654714475432
+Iteration 8760 Validation Increase Accuracy: 0.419642857143
+Iteration 8760 Validation Decrease Accuracy: 0.84412470024
+Iteration 8790 Training Loss: 0.632205
+Iteration 8790 Training Accuracy: 0.671030165054
+Iteration 8790 Training Increase Accuracy: 0.483502538071
+Iteration 8790 Training Decrease Accuracy: 0.823529411765
+Iteration 8790 Validation Loss: 0.63812
+Iteration 8790 Validation Accuracy: 0.654714475432
+Iterati
