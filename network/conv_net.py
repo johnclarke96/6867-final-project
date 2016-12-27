@@ -4,7 +4,7 @@ import random
 
 # Hyperparameters
 input_dim = 21
-input_channels = 1
+input_channels = 5
 number_amino_acids = 20
 layer1_filter_size = 5
 layer1_depth = 10
@@ -56,6 +56,7 @@ number_correct = tf.reduce_sum(tf.cast(tf.equal(tf.round(tf.sigmoid(network_outp
 number_increase_correct = tf.reduce_sum(tf.cast(tf.equal(2*tf.round(tf.sigmoid(network_output)), y + 1), tf.float32))
 loss_with_l2 = loss + l2_regularization_constant * (tf.nn.l2_loss(W3) + tf.nn.l2_loss(W4))
 optimize = tf.train.GradientDescentOptimizer(learning_rate).minimize(loss_with_l2)
+#optimize = tf.train.AdamOptimizer().minimize(loss_with_l2)
 
 def train(training_x, training_x2, training_y, valid_x, valid_x2, valid_y):
   print "here"
@@ -67,13 +68,13 @@ def train(training_x, training_x2, training_y, valid_x, valid_x2, valid_y):
   sess = tf.Session()
   init = tf.initialize_all_variables()
   sess.run(init)
+  checkpoint = 0
   for i in xrange(iterations):
     batch_indices = random.sample(xrange(0, training_x.shape[0]), batch_size)
     batch_x = training_x[batch_indices, :, :, :, :]
     batch_x2 = training_x2[batch_indices, :]
     batch_y = training_y[batch_indices, :]
     sess.run(optimize, feed_dict={x: batch_x, x2: batch_x2, y: batch_y})
-    checkpoint = 0
     print i
     if i % 10 == 0:
       loss_valid = sess.run(loss_with_l2, feed_dict={x: valid_x, x2: valid_x2, y: valid_y})
@@ -111,14 +112,21 @@ def fprint(string, f):
   f.write(string + '\n')
   print string
 
+def print_training_indices(filename, training_indices):
+  f_out = open(filename, 'w')
+  for index in training_indices:
+    f_out.write(str(index) + '\n')
+  f_out.close()
+
 if __name__ == '__main__':
-  X_lattices = np.load('../data/datasets/resampled_X_lattices.npy')
+  X_lattices = np.load('../data/datasets/resampled_multichannel_X_lattices.npy')
   X_mutations = np.load('../data/datasets/resampled_X_mutations.npy')
   Y_class = np.load('../data/datasets/resampled_Y_class.npy')
-  X_lattices = X_lattices[:, :, :, :, np.newaxis]
+  #X_lattices = X_lattices[:, :, :, :, np.newaxis]
   n = X_lattices.shape[0]
   training_size = int(n * 0.7)
   training_indices = random.sample(xrange(0, n), training_size)
+  print_training_indices('training_indices.txt', training_indices)
   training_X = X_lattices[training_indices, :, :, :, :]
   training_X2 = X_mutations[training_indices, :]
   training_Y = Y_class[training_indices, :]
